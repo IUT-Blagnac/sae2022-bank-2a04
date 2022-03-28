@@ -4,6 +4,7 @@ v1.0, 2022-03-28
 
 :toc: Creation d'un cahier des charges
 
-:toc:
+== Creation d'un cahier des charges 
+-[]Réalisation du document Asciidoc
+-[]Réalisation d'un Gantt
 
-== Creation d'un cahier des charges
