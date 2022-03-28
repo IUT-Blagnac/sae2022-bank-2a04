@@ -14,4 +14,4 @@ v1.0, 2022-03-28
 == Objectif du projet
 * Ce projet est en 2 parties:
 ** La partie cahier des charges (préparer tout le projet avant la conception)
-** La partie programmation et conception de l'application bancaire
+** La partie programmation et conception de l'application bancaire (DailyBank)
