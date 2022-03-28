@@ -1,7 +1,6 @@
 =  Page de garde
 Massip, Nabaoui, Quinveros <massip.romain@etu.univ-tlse2.fr><maisonaya@gmail.com><jordan.quinveros.pro@gmail.com>
 v1.0, 2022-03-28
-:toc:
+:toc: Creation d'un cahier des charges
+== Creation d'un cahier des charges
 
-
-== Creation d'un cahier des charges 
