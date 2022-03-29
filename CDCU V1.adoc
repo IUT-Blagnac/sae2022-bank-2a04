@@ -26,4 +26,4 @@ v1.0, 2022-03-28
 * Dans la version existante (V0), un chef d’agence peut :
 ** Rendre inactif un client
 
-image::Image/usecaseV0.png[align="center", width=70%]
+image::Image/usecaseV0.png[align="center", width=20%]
