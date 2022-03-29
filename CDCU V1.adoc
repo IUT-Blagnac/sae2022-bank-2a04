@@ -35,15 +35,6 @@ image::Image/usecaseV0.png[align="center", width=40%]
 == Analyse des contraintes : techniques et organisationnelles
 Plusieurs *contraintes* se dessinent :
 
-** Quels sont les taches critiques, celle ou il ne faut pas prendre de retard
-** Comment repartir equitablement le travail, et en fonction des points forts de chacun
-** Avons nous tous les droits juridiques
-** Avons nous accès au politiques de l'entreprise
-** Avons nous les competences requises pour developper a bien et repondre au besoin du client
-
-
-
-
 .Tableau des contraintes
 [options="header",width="60%",align="center",cols="^,^"]
 |====================================
