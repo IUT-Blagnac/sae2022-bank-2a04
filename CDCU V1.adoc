@@ -45,7 +45,7 @@ Plusieurs *contraintes* se dessinent :
 
 
 .Tableau des contraintes
-[options="header",width="60%",align="center",cols="^,^,^"]
+[options="header",width="60%",align="center",cols="^,^"]
 |====================================
 |techniques       |Organisationnellesani   
 |Quels sont les taches critiques, celle ou il ne faut pas prendre de retard|Comment repartir equitablement le travail, et en fonction des points forts de chacun
