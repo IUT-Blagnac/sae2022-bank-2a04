@@ -1,7 +1,6 @@
 =  SAE 2.05    Groupe 2A04
-Massip<massip.romain@etu.univ-tlse2.fr>
-Nabaoui <maisonaya@gmail.com>
-Massip,Nabaoui,Quinveros<jordan.quinveros.pro@gmail.com>
+
+Massip, Nabaoui, Quinveros<jordan.quinveros.pro@gmail.com, massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com>
 v1.0, 2022-03-28
 
 :toc: Creation d'un cahier des charges
