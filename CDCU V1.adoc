@@ -28,3 +28,14 @@ v1.0, 2022-03-28
 ** Rendre inactif un client
 
 image::Image/usecaseV0.png[align="center", width=40%]
+
+
+== Analyse des besoins 
+
+== Analyse des contraintes : techniques et organisationnelles
+Plusieurs contraintes se dessinent :
+
+** Quels sont les taches critiques, celle ou il ne faut pas prendre de retard
+** Comment repartir equitablement le travail, et en fonction des points fort de chacun
+** Avons nous tous les droits juridiques
+** Avons nous acces au politiques de l'entreprise
