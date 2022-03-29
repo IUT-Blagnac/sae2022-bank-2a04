@@ -43,6 +43,6 @@ Plusieurs *contraintes* se dessinent :
 |Comment repartir equitablement le travail, et en fonction des points forts de chacun
 |Avons nous tous les logiciels nécessaire pour la conception de l'application
 |Avons nous tous les droits juridiques
-|Avons nous les competences requises pour developper a bien et repondre au besoin du client
+|Il faut que l'application soit bien sécurisé car il s'agit d'une banques
 |Avons nous accès au politiques de l'entreprise
 |====================================
