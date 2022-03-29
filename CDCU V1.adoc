@@ -17,6 +17,7 @@ v1.0, 2022-03-28
 ** La partie programmation et conception de l'application bancaire (DailyBank)
 
 :toc: Analyse de l'existant
+== Analyse de l'existant
 * Une application est déjà en place on l'appellera la V0. Elle contient déjà quelques fonctionnalités qui permette au guichetier de :
 ** Modifier informations client (adresse, téléphone, …)
 ** Creer un nouveau client
