@@ -44,10 +44,11 @@ Plusieurs *contraintes* se dessinent :
 
 
 
-.Liste des trenza uf efed
+.Tableau des contraintes
 [options="header",width="60%",align="center",cols="^,^,^"]
 |====================================
-|Loren       |Dolor    | Cillum
-| velit esse |Est neque| 31 mars 2031
-|iumm improb |Et imper | 14 mai 2014
+|techniques       |Organisationnellesani   
+|Quels sont les taches critiques, celle ou il ne faut pas prendre de retard|Comment repartir equitablement le travail, et en fonction des points forts de chacun
+|Avons nous tous les logiciels nécessaire pour la conception de l'application|Avons nous tous les droits juridiques
+|Avons nous les competences requises pour developper a bien et repondre au besoin du client|Avons nous accès au politiques de l'entreprise
 |====================================
