@@ -1,6 +1,8 @@
 =  SAE 2.05    Groupe 2A04
 
-Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>v1.0, 2022-03-28
+Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
+v1.0, 2022-03-28
+
 :toc: preamble
 
 
