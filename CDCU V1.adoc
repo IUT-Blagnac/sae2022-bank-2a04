@@ -41,3 +41,13 @@ Plusieurs *contraintes* se dessinent :
 ** Avons nous accès au politiques de l'entreprise
 ** Avons nous les competences requises pour developper a bien et repondre au besoin du client
 
+
+
+
+.Liste des trenza uf efed
+[options="header",width="60%",align="center",cols="^,^,^"]
+|====================================
+|Loren       |Dolor    | Cillum
+| velit esse |Est neque| 31 mars 2031
+|iumm improb |Et imper | 14 mai 2014
+|====================================
