@@ -12,13 +12,13 @@ v1.0, 2022-03-28
 
 
 == Objectif du projet
-* Ce projet est en 2 parties:
+Ce projet est en 2 parties:
 ** La partie cahier des charges (préparer tout le projet avant la conception)
 ** La partie programmation et conception de l'application bancaire (DailyBank)
 
 
 == Analyse de l'existant
-* Une application est déjà en place on l'appellera la V0. Elle contient déjà quelques fonctionnalités qui permette au guichetier de :
+Une application est déjà en place on l'appellera la V0. Elle contient déjà quelques fonctionnalités qui permette au guichetier de :
 ** Modifier informations client (adresse, téléphone, …)
 ** Creer un nouveau client
 ** Consulter un compte
@@ -36,6 +36,6 @@ image::Image/usecaseV0.png[align="center", width=40%]
 Plusieurs contraintes se dessinent :
 
 ** Quels sont les taches critiques, celle ou il ne faut pas prendre de retard
-** Comment repartir equitablement le travail, et en fonction des points fort de chacun
+** Comment repartir equitablement le travail, et en fonction des points forts de chacun
 ** Avons nous tous les droits juridiques
-** Avons nous acces au politiques de l'entreprise
+** Avons nous accès au politiques de l'entreprise
