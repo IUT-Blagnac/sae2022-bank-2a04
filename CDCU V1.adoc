@@ -32,7 +32,9 @@ image::Image/usecaseV0.png[align="center", width=40%]
 
 == Analyse des besoins 
 Nous avons réalisé un use case pour la v0 :
+
 image::Image/uml.png[align="center", width=40%]
+
 == Analyse des contraintes : techniques et organisationnelles
 Plusieurs *contraintes* se dessinent :
 
