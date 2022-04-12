@@ -10,10 +10,10 @@ Vous devez ici indiquer l'équipe et un petit résumé du projet.
 | Date    | Nom         |  Lien                             | Retour
 | 03/04   | Gantt V1    |                                                              | Vous deviez faire le gantt de la v1 je ne trouve pas dans votre gantt des phases de correction de bugs, de rédaction des docs... Il faut détailler encore plus.
 |         | CdC V1      |                                   |   
-|         | Suivi Projet |                                   |   je ne peux pas voir vos commits votre projet est privé?
-Les issues sont conforme au gantt et affecté mais pas encore hiérarchisé (possible à ce stade)
-l'arborescence de répertoire est crée mais il faudra penser à : une répertoire pour le docs, les sources...
-Penser aussi à taguer les livrables
+|         | Suivi Projet |                                   |   Je ne peux pas voir vos commits car votre projet est privé... ?
+Les issues sont conformes au gantt et affectées mais pas encore hiérarchisées (possible à ce stade).
+L'arborescence de répertoire est crée mais il faudra penser à : une répertoire pour le docs, les sources...
+Penser aussi à taguer les livrables.
 | 22/04  | CdC V2/V3 final|                                     |  
 |         | Gantt V2    |                               |     
 |         | Gantt V3 |         |     
