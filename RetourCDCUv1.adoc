@@ -1,0 +1,64 @@
+== Retours
+=== CDCU
+
+==== Page de garde (Version, date, équipe, projet ...)
+ok
+
+ 
+==== Sommaire  
+il n'est pas présent
+
+=== Objectif du projet
+Ce n'est pas ce que vous devez faire vous devez décrire ici en quoi consiste le projet daily bank
+
+Vous pouvez vous inspirer du sujet...
+
+Et ne pas oublier d'expliquer :
+Qui est le client ? Qui sont les utilisateurs de l'application ?
+
+Pour moi deux les guichetiers et les chefs d'agences.
+Il faut aussi produire un texte indiquant que les guichetiers pourront créer de nouceaux clients et faire les opétations courante...
+Que les chefs d'agences pourront gérer les employé et les opérations exeptionnelles...
+
+L'application commence par une analyse de l'exsitant puis sera découpée en plusieurs versions à la demande du client
+Bref consulter les document cahier des charges vus en cours.
+==== analyse de l'existant
+
+ 
+ Ok mais c'est une application java, javafx et une BD...
+==== les contraintes liées au projet
+
+
+Vous devriez indiquer qu'il y aura un lien avec une base de donnée existante, que l'appli initiale sera fournie en java avec une IHM cpdée en java FX
+Que vous devez travailler avec une équipe constituée de ...
+Que les docs auront tel format...
+Que les échances des différentes version du projet sont ...
+
+...
+
+
+==== analyse des nouveaux besoins
+
+Indiquer les fonctionnalités qu'on vous a demandé pour la V1
+
+
+Il faut ici que vous reformulier la demande du client afin de vous assurer que vous avez bien compris.
+
+==== La description de la solution
+
+Un use case commenté peut être une bonne idée.
+
+Une maquette des interfaces...
+
+==== Modalités d’organisation pour la suite du projet
+
+qui fait quoi ici le gant commenté c'est bien
+
+Quels sont les dates de livraison de chaque livrable,
+
+Quelles seront les modalités de la livraison recette, doc...
+
+
+
+==== Enveloppe  
+Vous avez un doc de Mme pendaries depuis votre gantt vous avec les heures prévisionnelle de codage de test, de rédaction...
