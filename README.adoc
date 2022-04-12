@@ -41,3 +41,21 @@ Penser aussi à taguer les livrables.
 |         | Recette V3  |   |
 |         | `jar` projet |     |
 |===
+== Les critères d'évaluation :SAE S2.05 Gestion de projet
+
+=== CDCU
+• Page de garde (Version, date, équipe, projet ...), Sommaire
+• Présentation du sujet
+◦ contexte, objectifs, à quel problème répond-t-il ?
+• Analyse de l’existant
+• Analyse des besoins incluant V2 et V3
+• Analyse des contraintes
+◦ techniques & organisationnelles
+
+
+=== Gestion de projet
+Gantts complets, cohérents avec les issues et à jour (tâches, resp., avancements...)
+Format (Gantt en pdf, docs en asciidoc) et arborescence du dépôt
+Sources versionnées, commit réguliers et commentés...
+Gestion du projet sous Github (issues, millestones, avancée ...), prise en compte des remarques dans le readme
+
