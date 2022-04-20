@@ -1,0 +1,54 @@
+=  SAE 2.05    Groupe 2A04
+
+Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
+v1.0, 2022-03-28
+<id Creation d'un cahier des charges>
+
+
+
+[[id Creation d'un cahier des charges ]]
+* [x] Réalisation du document Asciidoc 
+* [*] Réalisation d'un Gantt
+
+
+== Objectif du projet
+La banque DailyBank souhaite développer une application JAVA-Oracle de
+gestion des comptes clients pour remplacer plusieurs outils obsolètes. 
+Ce développement s’inscrit dans le cadre de la restructuration de ses 
+services bancaires et l’application sera déployée dans les 100 agences 
+que compte son réseau. Vous travaillerez à partir d’une application 
+existante « Daily Bank » qu’il faudra adapter aux nouveaux besoins de la banque.
+
+
+== Analyse de l'existant
+Une application est déjà en place on l'appellera la V0. Elle contient déjà quelques fonctionnalités qui permette au guichetier de :
+** Modifier informations client (adresse, téléphone, …)
+** Creer un nouveau client
+** Consulter un compte
+** Débiter un compte (BD)
+
+* Dans la version existante (V0), un chef d’agence peut :
+** Rendre inactif un client
+
+image::Image/usecaseV0.png[align="center", width=40%]
+
+
+== Analyse des besoins 
+Nous avons réalisé un use case pour la v0 :
+
+image::Image/uml.png[align="center", width=40%]
+
+== Analyse des contraintes : techniques et organisationnelles
+Plusieurs *contraintes* se dessinent :
+
+.Tableau des contraintes
+[options="header",width="60%",align="center",cols="^,^"]
+|====================================
+|techniques       |Organisationnelles
+|Quels sont les taches critiques, celle ou il ne faut pas prendre de retard
+|Comment repartir equitablement le travail, et en fonction des points forts de chacun
+|Avons nous tous les logiciels nécessaire pour la conception de l'application
+|Avons nous tous les droits juridiques
+|Il faut que l'application soit bien sécurisé car il s'agit d'une banques
+|Avons nous accès au politiques de l'entreprise
+|====================================
