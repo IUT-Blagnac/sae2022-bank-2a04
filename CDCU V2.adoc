@@ -3,11 +3,11 @@
 Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
 v1.0, 2022-03-28
 
-
-<<id,Objectif du projet>>\n
-<<id,Analyse de l'existant>>\r
-<<id,Analyse des besoins>>\r
-<<id,Analyse des contraintes : techniques et organisationnellest>>\r
+== Sommaire
+<<id,Objectif du projet>>
+<<id2,Analyse de l'existant>>
+<<id3,Analyse des besoins>>
+<<id4,Analyse des contraintes : techniques et organisationnellest>>
 
 
 
@@ -27,7 +27,7 @@ que compte son réseau. Vous travaillerez à partir d’une application
 existante « Daily Bank » qu’il faudra adapter aux nouveaux besoins de la banque.
 
 
-[[id,Analyse de l'existant]]
+[[id2,Analyse de l'existant]]
 == Analyse de l'existant
 
 
@@ -42,7 +42,7 @@ Une application est déjà en place on l'appellera la V0. Elle contient déjà q
 
 image::Image/usecaseV0.png[align="center", width=40%]
 
-[[id,Analyse des besoins]]
+[[id3,Analyse des besoins]]
 == Analyse des besoins 
 Nous avons réalisé un use case pour la v0 :
 
@@ -50,7 +50,7 @@ image::Image/uml.png[align="center", width=40%]
 
 
 
-[[id,Analyse des contraintes : techniques et organisationnelles]]
+[[id4,Analyse des contraintes : techniques et organisationnelles]]
 == Analyse des contraintes : techniques et organisationnelles
 Plusieurs *contraintes* se dessinent :
 
