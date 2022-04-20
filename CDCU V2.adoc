@@ -1,7 +1,7 @@
 =  SAE 2.05    Groupe 2A04
 
 Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
-v1.0, 2022-03-28
+v2.0, 2022-03-28
 
 == Sommaire
 <<id,Objectif du projet >>
@@ -28,6 +28,8 @@ Ce développement s’inscrit dans le cadre de la restructuration de ses
 services bancaires et l’application sera déployée dans les 100 agences 
 que compte son réseau. Vous travaillerez à partir d’une application 
 existante « Daily Bank » qu’il faudra adapter aux nouveaux besoins de la banque.
+
+=== Description du client
 
 
 [[id2,Analyse de l'existant]]
