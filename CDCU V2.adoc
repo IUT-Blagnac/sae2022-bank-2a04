@@ -6,10 +6,10 @@ v1.0, 2022-03-28
 == Sommaire
 <<id,Objectif du projet >>
 
-
-
 <<id2,Analyse de l'existant >>
+
 <<id3,Analyse des besoins >>
+
 <<id4,Analyse des contraintes : techniques et organisationnellest >>
 
 
