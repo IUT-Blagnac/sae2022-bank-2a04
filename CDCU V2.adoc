@@ -6,7 +6,7 @@ v2.0, 2022-03-28
 == Sommaire
 <<id,Objectif du projet >>
   
-<<id,Description du client >>
+<<id5,Description du client >>
 
 <<id2,Analyse de l'existant >>
 
@@ -31,13 +31,11 @@ services bancaires et l’application sera déployée dans les 100 agences
 que compte son réseau.
 
 
-[[id,Description du client]]
+[[id5,Description du client]]
 === Description du client
 
 Notre client s'agit de la Banque DailyBank qui est une des plus grande d'Antarctique. Créé en 1859, elle est aujourd'hui mondialement connue. Elle souhaite se modernisé pour offrir a ses clients un services plus rapide et connecté.
 Ainsi DailyBank pourras faire utilisé notre application à tous ses clients.
-
-
 
 
 [[id2,Analyse de l'existant]]
