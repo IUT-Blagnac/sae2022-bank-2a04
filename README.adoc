@@ -3,6 +3,8 @@ sae2022-bank-2a04 created by GitHub Classroom
 
 Vous devez ici indiquer l'équipe et un petit résumé du projet.
 
+Ayanaboui évite de laisser ton compte github ouvert sur les pcs de l'IUT. J'aurais pu faire de la merde avec.
+
 == Livrables
 
 [cols="1,2,2,5",options=header]
