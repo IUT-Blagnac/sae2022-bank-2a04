@@ -3,16 +3,11 @@
 Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
 v2.0, 2022-03-28
 
-== Sommaire
-<<id,Objectif du projet >>
-  
-<<id5,Description du client >>
 
-<<id2,Analyse de l'existant >>
+:toc:
+:toc-title: Sommaire
 
-<<id3,Analyse des besoins >>
 
-<<id4,Analyse des contraintes : techniques et organisationnellest >>
 
 
 
