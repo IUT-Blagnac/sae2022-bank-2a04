@@ -6,7 +6,7 @@ v2.0, 2022-03-28
 == Sommaire
 <<id,Objectif du projet >>
   
- *<<id,Description du client >>
+<<id,Description du client >>
 
 <<id2,Analyse de l'existant >>
 
