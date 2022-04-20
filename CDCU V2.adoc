@@ -6,10 +6,28 @@ v1.0, 2022-03-28
 
 
 
-[[id Creation d'un cahier des charges ]]
-* [x] Réalisation du document Asciidoc 
-* [*] Réalisation d'un Gantt
 
+
+
+
+```
+blah
+====
+:toc:
+
+blah
+----
+
+more stuff
+
+etc
+---
+
+etc etc
+```
+
+Cheers
+Lex 
 
 == Objectif du projet
 La banque DailyBank souhaite développer une application JAVA-Oracle de
