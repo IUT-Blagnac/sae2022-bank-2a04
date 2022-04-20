@@ -9,25 +9,21 @@ v1.0, 2022-03-28
 
 
 
-
-```
-blah
+.Sample document
 ====
+Here's a sample AsciiDoc document:
+
+[listing]
+....
+= Title of Document
+Doc Writer
 :toc:
 
-blah
-----
+This guide provides...
+....
 
-more stuff
-
-etc
----
-
-etc etc
-```
-
-Cheers
-Lex 
+The document header is useful, but not required.
+====
 
 == Objectif du projet
 La banque DailyBank souhaite développer une application JAVA-Oracle de
