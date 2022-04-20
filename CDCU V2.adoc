@@ -5,7 +5,9 @@ v1.0, 2022-03-28
 
 
 <<id,Objectif du projet>>
-
+<<id,Analyse de l'existant>>
+<<id,Analyse des besoins>>
+<<id,Analyse des contraintes : techniques et organisationnellest>>
 
 
 
@@ -14,7 +16,7 @@ v1.0, 2022-03-28
 
 [[id,Objectif du projet]]
 
-==Objectif du projet
+== Objectif du projet
 
 
 La banque DailyBank souhaite développer une application JAVA-Oracle de
@@ -25,7 +27,10 @@ que compte son réseau. Vous travaillerez à partir d’une application
 existante « Daily Bank » qu’il faudra adapter aux nouveaux besoins de la banque.
 
 
+[[id,Analyse de l'existant]]
 == Analyse de l'existant
+
+
 Une application est déjà en place on l'appellera la V0. Elle contient déjà quelques fonctionnalités qui permette au guichetier de :
 ** Modifier informations client (adresse, téléphone, …)
 ** Creer un nouveau client
@@ -37,14 +42,18 @@ Une application est déjà en place on l'appellera la V0. Elle contient déjà q
 
 image::Image/usecaseV0.png[align="center", width=40%]
 
-
+[[id,Analyse des besoins]]
 == Analyse des besoins 
 Nous avons réalisé un use case pour la v0 :
 
 image::Image/uml.png[align="center", width=40%]
 
+
+
+[[id,Analyse des contraintes : techniques et organisationnelles]]
 == Analyse des contraintes : techniques et organisationnelles
 Plusieurs *contraintes* se dessinent :
+
 
 .Tableau des contraintes
 [options="header",width="60%",align="center",cols="^,^"]
