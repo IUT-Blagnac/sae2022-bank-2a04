@@ -77,3 +77,8 @@ Plusieurs *contraintes* se dessinent :
 |Il faut que l'application soit bien sécurisé car il s'agit d'une banques
 |Avons nous accès au politiques de l'entreprise
 |====================================
+
+
+
+* Pour nous aider pour le cahier de test
+https://www.dynamic-mess.com/developpement/creation-cahier-de-tests/
