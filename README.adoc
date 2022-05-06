@@ -19,9 +19,9 @@ Penser aussi à taguer les livrables.
 | 22/04  | CdC V2/V3 final|          Lien manquant !!                           |  1,5/2	Manque nom du projet et du client
 1/2	De nombreuses fautes de syntaxe et d'orthographe. Numéroter le sommaire comme les paragraphes
 1,5/4	Confus, il manque la problématique, les objectifs du projet.
-2/4	Trop succinct, présenter les utlisateurs,  donner les aspects techniques de l'appli …
+2/4	Trop succinct, présenter les utilisateurs,  donner les aspects techniques de l'appli …
 1/4	Confusion j'ai un UC V0 au lieu de V1 et rien sur V2 et V3. Pas d'explications, pas de priorisation des fonctionnalités …
-0,5/4	Les contraintes ne sont pas comprises : contraintes techniques (lg, archi …), orga (dates de livraison, organisation de l'équipes, outils collaboratifs, gantt commentés), juridique (RGPD, impact sur votre projet …), règles de gestion pour les fonctionnalités (conditions pour réalise un débit par ex).
+0,5/4	Les contraintes ne sont pas comprises : contraintes techniques (lg, archi …), orga (dates de livraison, organisation de l'équipe, outils collaboratifs, gantt commentés), juridique (RGPD, impact sur votre projet …), règles de gestion pour les fonctionnalités (conditions pour réalise un débit par ex).
 	
 7,5	/20
 
