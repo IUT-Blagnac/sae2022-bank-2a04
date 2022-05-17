@@ -8,11 +8,17 @@ Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com,
 v1.0, 2022-05-17
 
 == Sommaire
+
 === 1.Présentation du sujet
+
 <<id,Objectif du projet>>
 <<id2,Architecture de l'application>>
+
 === 2.Presentation des différentes versions 
+
 <<id3,Présentation de la V0>>
+
+
 
 [[id,Objectif du projet]]
 
