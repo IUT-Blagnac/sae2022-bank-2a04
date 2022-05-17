@@ -9,6 +9,7 @@ v1.0, 2022-05-17
 
 == Sommaire
 <<id,Objectif du projet >>
+<<id2,Architecture de l'application>>
 
 [[id,Objectif du projet]]
 
@@ -30,3 +31,8 @@ Rajouter des fonctionnalité à l'application que nous avons reçu, par exemple:
 ** Simuler une assurance d’emprunt
 ** Effectuer un Débit exceptionnel
 ** Effectuer un virement de compte à compte
+Ainsi que d'autre fonctionnalité que nous mettrons si le temps nous le permet.
+
+
+[[id2,Architecture de l'application]]
+== Architecture de l'application
