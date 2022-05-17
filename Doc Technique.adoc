@@ -41,7 +41,7 @@ Ainsi que d'autre fonctionnalité que nous mettrons si le temps nous le permet.
 Notre application à été écrite en java avec la bibliothèque de javaFX qui nous a permis de créer l'interface graphique de l'application :
 
 
-image::Image/LogoJAVAFX.png[align="left", width=10%] 
+image::Image/LogoJAVAFX.png[width=10%] 
 image::Image/LogoSql.png[align="right", width=10%]
 
 
