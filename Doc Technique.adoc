@@ -58,4 +58,17 @@ image::Image/LogoSql.png[width=10%]
 
 [[id3,Présentation de la V0]]
 === Présentation de la V0
+image::Image/usecaseV0.png[align="center", width=40%]
+
+Nous pouvons deja dans la V0 :
+
+** Modifier informations client (adresse, téléphone, …)
+
+** Créer un nouveau client
+
+** Consulter un compte
+
+** Débiter un compte (BD)
+
+
 
