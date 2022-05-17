@@ -25,7 +25,8 @@ que compte son réseau.
 === Application attendu
 
 
-Rajouter des fonctionnalité à l'application que nous avons reçu, par exemple :
-* Simuler une assurance d’emprunt
-* Effectuer un Débit exceptionnel
-* Effectuer un virement de compte à compte
+Rajouter des fonctionnalité à l'application que nous avons reçu, par exemple:
+
+** Simuler une assurance d’emprunt
+** Effectuer un Débit exceptionnel
+** Effectuer un virement de compte à compte
