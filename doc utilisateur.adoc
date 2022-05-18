@@ -27,7 +27,10 @@ La banque DailyBank souhaite développer une application JAVA-Oracle de gestion 
 == 2.Installation utilisation 
 
 
+
+
 == 3.Fonctionnement
+L'application doit permettre a un guichetier de creer un nouveau client et modifier ses informations et de consulter et debiter un compte. Elle doit aussi permettre a un chef d'agence de rendre inactif un client.
 
 
 == 4. Résultats produits avec jeux d'essai commentés
