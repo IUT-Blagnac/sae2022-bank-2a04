@@ -25,12 +25,12 @@ La banque DailyBank souhaite développer une application JAVA-Oracle de gestion 
 
 
 == 2.Installation utilisation 
-
+Pour commencer l'installation de l'application ,il faut dabord mettre en place le workspace sur eclipse . Ensuite il faut exécuter le script sur sqldeveloper
 
 
 
 == 3.Fonctionnement
-L'application doit permettre a un guichetier de creer un nouveau client et modifier ses informations et de consulter et debiter un compte. Elle doit aussi permettre a un chef d'agence de rendre inactif un client.
+Le projet démarre en lançant application.DailyBankApp. L'application doit permettre a un guichetier de creer un nouveau client et modifier ses informations et de consulter et debiter un compte. Elle doit aussi permettre a un chef d'agence de rendre inactif un client.
 
 
 == 4. Résultats produits avec jeux d'essai commentés
