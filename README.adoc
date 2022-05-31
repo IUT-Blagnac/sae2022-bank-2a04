@@ -28,7 +28,7 @@ Penser aussi à taguer les livrables.
 |         | Gantt V2    |                               |     
 |         | Gantt V3 |         |     
 |         | Doc. Tec. V1 |        |    
-|         | Doc User V1    |        |
+|         | Doc User V1    |        |retard livraison V1 pour suivi !
 |         | Recette V1  |                      | 
 |         | Suivi projet|   | 
 | 22/05   | Gantt V2  à jour    |       | 
