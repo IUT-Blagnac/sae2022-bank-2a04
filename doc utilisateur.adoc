@@ -25,8 +25,7 @@ La banque DailyBank souhaite développer une application JAVA-Oracle de gestion 
 
 
 == 2.Installation utilisation 
-Pour commencer l'installation de l'application ,il faut dabord mettre en place le workspace sur eclipse . Ensuite il faut exécuter le script sur sqldeveloper
-
+Pour commencer l'installation de l'application ,on commence par lancer le jar. Le projet démarre en lancan le programme principal application.DailyBankApp.
 
 
 == 3.Fonctionnement
