@@ -8,6 +8,22 @@
 Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
 v1.0, 2022-05-17
 
+
+
+.Tableau des contraintes
+[options="header",width="60%",align="center",cols="^,^"]
+|====================================
+|techniques       |Organisationnelles
+|Nom du projet
+|Daily Bank
+|Avons nous tous les logiciels nécessaire pour la conception de l'application
+|Avons nous tous les droits juridiques
+|Il faut que l'application soit bien sécurisé car il s'agit d'une banques
+|Avons nous accès au politiques de l'entreprise
+|====================================
+
+
+
 == Sommaire
 
 === 1.Présentation du sujet
