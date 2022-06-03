@@ -96,8 +96,19 @@ image::Image/LogoSql.png[width=10%]
 
 Nous avons créer un .jar permettant d'executer l'application sur un pc.
 
-Plusieurs packages sont diponibles dans notre application, chaqu  'un joue un role important
+Plusieurs packages sont diponibles dans notre application, chaqu'un joue un role important, une certaine hiérarchie est instauré.
 
+image::Image/packages.png[width=10%]
+
+Application.view regroupe les fichiers fxml ainsi que leur différents controllers.
+Application.tools est un package contenant les outils d'alertes, des constantes reutillisables.
+Application.control permet de gérer les différents fenêtre créer dans le package view.
+Application permet de lancer les différentes méthodes pour initialiser le lancement de l'application
+
+Model.data regroupe tous les différents acteurs qui peuvent interagir et qui sont stocké dans la base de donnés, ainsi que leur different constructeur
+Par exemple les clients, les employés.
+Model.orm permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
+Model.orm.exception lève toutes les exceptions rencontrées dans l'application
 
 == 2.Presentation des différentes versions 
 
