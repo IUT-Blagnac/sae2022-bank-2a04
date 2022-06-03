@@ -52,20 +52,7 @@ que compte son réseau.
 === Application attendu
 
 
-Dans la version existante (V0), un guichetier peut :
-
-    ** Modifier informations client (adresse, téléphone, …)
-
-   ** Créer un nouveau client
-
-  **  Consulter un compte
-
-  **  Débiter un compte (BD)
-
-Dans la version existante (V0), un chef d’agence peut :
-
- **   Rendre inactif un client
-
+Rajouter des fonctionnalité à l’application que nous avons reçu, par exemple: (tout mettre) Simuler une assurance d’emprunt Effectuer un Débit exceptionnel ** Effectuer un virement de compte à compte Ainsi que d’autre fonctionnalité que nous mettrons si le temps nous le permet.
 
 
 
@@ -85,15 +72,19 @@ image::Image/LogoSql.png[width=10%]
 === Présentation de la V0
 image::Image/usecaseV0.png[align="center", width=40%]
 
-Nous pouvons deja dans la V0 :
+Dans la version existante (V0), un guichetier peut :
 
-** Modifier informations client (adresse, téléphone, …)
+    ** Modifier informations client (adresse, téléphone, …)
 
-** Créer un nouveau client
+   ** Créer un nouveau client
 
-** Consulter un compte
+  **  Consulter un compte
 
-** Débiter un compte (BD)
+  **  Débiter un compte (BD)
+
+Dans la version existante (V0), un chef d’agence peut :
+
+ **   Rendre inactif un client
 
 
 
