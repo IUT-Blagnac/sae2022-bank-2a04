@@ -56,26 +56,26 @@ Rajouter des fonctionnalité à l’application que nous avons reçu, par exempl
 
 
 
-    Guichetier :
+   Le Guichetier puisse:
 
-   **     Créditer/débiter un compte (java et BD avec procédure stockée)
-    **    Créer un compte
-    **    Effectuer un virement de compte à compte
-  **      Clôturer un compte        
+**    Créditer/débiter un compte (java et BD avec procédure stockée)
+**    Créer un compte
+**    Effectuer un virement de compte à compte
+**    Clôturer un compte        
 **    Générer un relevé mensuel d’un compte en PDF
 **    Gérer (faire le « CRUD[2] ») les prélèvements automatiques
- **   Modifier informations client (adresse, téléphone, …)
+**    Modifier informations client (adresse, téléphone, …)
 **    Créer un nouveau client
 **    Consulter un compte
 **    Débiter un compte (BD)
 
-    Chef d’Agence :
+    Le Chef d’Agence puisse:
 
- **       Gérer (faire le « CRUD ») les employés (guichetier et chef d’agence)
+**    Gérer (faire le « CRUD ») les employés (guichetier et chef d’agence)
 **    Effectuer un Débit exceptionnel
 **    Simuler un emprunt
 **    Simuler une assurance d’emprunt
- **   Rendre inactif un client
+**   Rendre inactif un client
 
 
 
