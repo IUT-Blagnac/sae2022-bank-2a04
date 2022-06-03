@@ -52,18 +52,27 @@ que compte son réseau.
 === Application attendu
 
 
-Rajouter des fonctionnalité à l'application que nous avons reçu, par exemple:
-(tout mettre)
-** Simuler une assurance d’emprunt
-** Effectuer un Débit exceptionnel
-** Effectuer un virement de compte à compte
-Ainsi que d'autre fonctionnalité que nous mettrons si le temps nous le permet.
+Dans la version existante (V0), un guichetier peut :
+
+    ** Modifier informations client (adresse, téléphone, …)
+
+   ** Créer un nouveau client
+
+  **  Consulter un compte
+
+  **  Débiter un compte (BD)
+
+Dans la version existante (V0), un chef d’agence peut :
+
+ **   Rendre inactif un client
+
+
 
 
 [[id2,Architecture de l'application]]
 == Architecture de l'application
 
-Notre application à été écrite en java avec la bibliothèque de javaFX 1.8 qui nous a permis de créer l'interface graphique de l'application, ainsi qu'une base de donnée en SQL oracle qui nous permet de stocker tous les clients de la banques, leurs comptes, leurs transactions...
+Notre application à été écrite en java avec la bibliothèque de javaFX 1.8 qui nous a permis de créer l'interface graphique de l'application, ainsi qu'une base de donnée en SQL oracle qui nous permet de stocker tous les clients de la banques, leurs comptes, leurs transactions, les employés. Nous avons choisi SQL oracle car il est simple d'utilisation.
 
 
 image::Image/LogoJAVAFX.png[width=10%]
