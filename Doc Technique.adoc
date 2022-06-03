@@ -94,6 +94,10 @@ Notre application à été écrite en java avec la bibliothèque de javaFX 1.8 q
 image::Image/LogoJAVAFX.png[width=10%]
 image::Image/LogoSql.png[width=10%]
 
+Nous avons créer un .jar permettant d'executer l'application sur un pc.
+
+Plusieurs packages sont diponibles dans notre application, chaqu  'un joue un role important
+
 
 == 2.Presentation des différentes versions 
 
@@ -115,14 +119,23 @@ Dans la version existante (V0), un chef d’agence peut :
 
  **   Rendre inactif un client
  
- 
+  
  = Fontionnalité faite par : Romain Massip
+ 
  == Crédit / Débit
+ 
  == Virement
+ 
  = Fontionnalité faite par : Aya Nabaoui
+ 
  == Créer un compte 
+ 
  = Fontionnalité faite par : Jordan Quinveros
+ 
  == CLoturer un compte
+ 
+ package CompteManagementController
+ 
  == Gerer les employés (le CRUD)
 
 
