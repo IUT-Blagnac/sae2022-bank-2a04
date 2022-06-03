@@ -52,7 +52,36 @@ que compte son réseau.
 === Application attendu
 
 
-Rajouter des fonctionnalité à l’application que nous avons reçu, par exemple: (tout mettre) Simuler une assurance d’emprunt Effectuer un Débit exceptionnel ** Effectuer un virement de compte à compte Ainsi que d’autre fonctionnalité que nous mettrons si le temps nous le permet.
+Rajouter des fonctionnalité à l’application que nous avons reçu, par exemple: 
+
+
+
+    Guichetier :
+
+   **     Créditer/débiter un compte (java et BD avec procédure stockée)
+    **    Créer un compte
+    **    Effectuer un virement de compte à compte
+  **      Clôturer un compte        
+**    Générer un relevé mensuel d’un compte en PDF
+**    Gérer (faire le « CRUD[2] ») les prélèvements automatiques
+ **   Modifier informations client (adresse, téléphone, …)
+**    Créer un nouveau client
+**    Consulter un compte
+**    Débiter un compte (BD)
+
+    Chef d’Agence :
+
+ **       Gérer (faire le « CRUD ») les employés (guichetier et chef d’agence)
+**    Effectuer un Débit exceptionnel
+**    Simuler un emprunt
+**    Simuler une assurance d’emprunt
+ **   Rendre inactif un client
+
+
+
+
+
+Ainsi que d’autre fonctionnalité que nous mettrons si le temps nous le permet.
 
 
 
