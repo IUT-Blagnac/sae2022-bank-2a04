@@ -14,7 +14,7 @@ v1.0, 2022-05-17
 
 <<id3,Fonctionnement>>
 
-<<id4, Résultats produits avec jeux d'essai commentés>>
+<<id4, Utilisation>>
 
 
 
@@ -32,5 +32,9 @@ Pour commencer l'installation de l'application, on commence par télécharger le
 Quand le projet démarre. L'application permet à un guichetier de creer un nouveau client et modifie ses informations et de consulter et débiter un compte,de faire des virements de compte à compte ainsi que Clôturer un compte. Elle permet un chef d'agence de rendre inactif un client,de consulter la liste de employer, d'en créer, d'en supprimer, d'en modifier.
 
 
-== 4. Résultats produits avec jeux d'essai commentés
+== 4. Utilisation
+Voici un guide d'utilisation de l'application:
+
+![Erreur de chargement de l'image]()
+
 
