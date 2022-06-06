@@ -35,6 +35,6 @@ Quand le projet démarre. L'application permet à un guichetier de creer un nouv
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-image::Image/Doc Utilisateur/Interface_arrivé.png[width=10%]
+image:://Image/Doc Utilisateur/Interface_arrivé.png[width=10%]
 
 
