@@ -60,11 +60,28 @@ image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
 
 image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
 
+
 Rentrez vos identifiant et mot de passe de connection
 
 === 4.3. Quand vous êtes connectés :
 
 image::Image/DocUtilisateur/InterfaceConnecter.PNG[width=40%]
+
+Sur cette page de nouvelle fonctionnalité sont disponibles:
+
+Se Déconnecter:
+
+** Utilisateur → Déconnection
+
+Accéder aux interface Client et Employer:
+
+** Gestion → Employés
+** Gestion → Clients
+
+image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
+
+
+
 
 
 
