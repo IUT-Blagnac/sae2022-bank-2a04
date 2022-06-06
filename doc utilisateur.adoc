@@ -58,6 +58,10 @@ image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
 
 image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
 
+Rentrez vos identifiant et mot de passe de connection
+
+=== 3. Quand vous êtes connectés :
+
 
 
 
