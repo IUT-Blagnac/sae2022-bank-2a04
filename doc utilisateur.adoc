@@ -108,17 +108,22 @@ image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 === 4.5. Suite à cette action L'application affiche les clients:
 
 
-image::Image/DocUtilisateur/AffichageC.PNG[width=40%]
+image::Image/DocUtilisateur/AffichageC.PNG[width=50%]
 
 Sélectionné un compte et deux boutons deviennent disponibles
 
-image::Image/DocUtilisateur/BoutonCC.PNG[width=40%]
+image::Image/DocUtilisateur/BoutonCC.PNG[width=20%]
 
-Se bouton permet d'ouvrir l'interface de gestion des comptes du client sélectionné
+** Se bouton permet d'ouvrir l'interface de gestion des comptes du client sélectionné
 
-image::Image/DocUtilisateur/BoutonMC.PNG[width=40%]
+image::Image/DocUtilisateur/InterfaceCC.PNG[width=20%]
 
-Se bouton permet de modifier les informations du client
+
+image::Image/DocUtilisateur/BoutonMC.PNG[width=20%]
+
+** Se bouton permet de modifier les informations du client
+
+image::Image/DocUtilisateur/InterfaceMC.PNG[width=20%]
 
 
 
