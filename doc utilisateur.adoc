@@ -107,9 +107,8 @@ image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 
 Suite à cette action L'application affiche les clients
 
-image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 
-image::Image/DocUtilisateur/AffichageC.PNG[width=20%]
+image::Image/DocUtilisateur/AffichageC.PNG[width=40%]
 
 
 
