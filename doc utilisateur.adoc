@@ -37,6 +37,8 @@ Voici un guide d'utilisation de l'application:
 
 === 1. A l'ouverture de l'application ,Vous arrivez sur cette page:
 
+image::Image/DocUtilisateur/InterfaceArrive.PNG[width=30%]
+
 Sur cette page Deux actions peuvent être affectuer
 
 Quitter l'application:
@@ -60,7 +62,9 @@ image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
 
 Rentrez vos identifiant et mot de passe de connection
 
-=== 3. Quand vous êtes connectés :
+=== 4.3. Quand vous êtes connectés :
+
+image::Image/DocUtilisateur/InterfaceConnecter.PNG[width=40%]
 
 
 
