@@ -72,6 +72,7 @@ Sur cette page de nouvelle fonctionnalité sont disponibles:
 Se Déconnecter:
 
 ** Utilisateur → Déconnection
+** Bouton déconnecter
 
 Accéder aux interface Client et Employer:
 
@@ -79,6 +80,32 @@ Accéder aux interface Client et Employer:
 ** Gestion → Clients
 
 image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
+
+Accédons à l'interface Clients
+
+=== 4.4. Interface Clients
+
+image::Image/DocUtilisateur/InterfaceC.PNG[width=30%]
+
+Sur cette page 3 fonctionalitées sont disponibles:
+
+** Quitter l'interface Client
+
+image::Image/DocUtilisateur/BoutonRA.PNG[width=20%]
+
+** Créer un client
+
+image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
+
+Se qui ouvre l'interface de création de client
+
+image::Image/DocUtilisateur/InterfaceNC.PNG[width=30%]
+
+**Rechercher les clients de l'Agence
+
+image::Image/DocUtilisateur/BoutonR.PNG[width=30%]
+
+
 
 
 
