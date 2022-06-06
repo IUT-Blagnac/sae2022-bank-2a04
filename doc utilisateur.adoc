@@ -35,6 +35,6 @@ Quand le projet démarre. L'application permet à un guichetier de creer un nouv
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-image::https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Image/Doc%20Utilisateur/Interface%20arriv%C3%A9.PNG
+image::Image/Doc Utilisateur/Interface_arrivé.png
 
-image::Image/LogoJAVAFX.png[width=10%]
+
