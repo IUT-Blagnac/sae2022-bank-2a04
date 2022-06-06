@@ -37,6 +37,6 @@ Voici un guide d'utilisation de l'application:
 
 
 
-image::Image/DocUtilisateur/InterfaceArrive.PNG[width=10%]
+image::Image/DocUtilisateur/InterfaceArrive.PNG[width=80%]
 
 
