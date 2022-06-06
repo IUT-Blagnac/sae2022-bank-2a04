@@ -103,7 +103,7 @@ image::Image/DocUtilisateur/InterfaceNC.PNG[width=30%]
 
 ** Rechercher les clients de l'Agence
 
-image::Image/DocUtilisateur/BoutonR.PNG[width=30%]
+image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 
 
 
