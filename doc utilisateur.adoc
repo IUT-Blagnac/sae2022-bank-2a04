@@ -35,8 +35,7 @@ Quand le projet démarre. L'application permet à un guichetier de creer un nouv
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-A l'ouverture de l'application ,Vous arrivez sur cette page:
-image::Image/DocUtilisateur/InterfaceArrive.PNG[width=40%]
+=== 1. A l'ouverture de l'application ,Vous arrivez sur cette page:
 
 Sur cette page Deux actions peuvent être affectuer
 
@@ -57,7 +56,7 @@ image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
 
 Puis quand vous vous connectez une interface de connection apparé :
 
-image::Image/DocUtilisateur/Interface connection.PNG[width=30%]
+image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
 
 
 
