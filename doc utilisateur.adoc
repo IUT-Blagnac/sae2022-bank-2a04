@@ -35,6 +35,6 @@ Quand le projet démarre. L'application permet à un guichetier de creer un nouv
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-![Erreur de chargement de l'image](sae2022-bank-2a04/Image/Doc Utilisateur/Interface_arrivé.png)
+image::Image/Doc Utilisateur/Interface_arrivé.png[width=10%]
 
 
