@@ -35,8 +35,24 @@ Quand le projet démarre. L'application permet à un guichetier de creer un nouv
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-
-
+A l'ouverture de l'application ,Vous arrivez sur cette page:
 image::Image/DocUtilisateur/InterfaceArrive.PNG[width=40%]
+
+Sur cette page Deux actions peuvent être affectuer
+
+Quitter l'application:
+
+** Depuis la crois en haut a droite
+** Depuis Utisateur → Quitter
+
+image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
+
+Se connecter:
+
+** Depuis Utisateur → Connection
+** Depuis le bouton Connection
+
+image::Image/DocUtilisateur/BoutonConnection.PNG[width=30%]
+
 
 
