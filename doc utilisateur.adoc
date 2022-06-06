@@ -85,7 +85,7 @@ Accédons à l'interface Clients
 
 === 4.4. Interface Clients
 
-image::Image/DocUtilisateur/InterfaceRC.PNG[width=30%]
+image::Image/DocUtilisateur/InterfaceGC.PNG[width=30%]
 
 Sur cette page 3 fonctionalitées sont disponibles:
 
