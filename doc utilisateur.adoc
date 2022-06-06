@@ -29,7 +29,7 @@ Pour commencer l'installation de l'application, on commence par télécharger le
 
 
 == 3.Fonctionnement
-Le projet démarre en lançant application.DailyBankApp. L'application doit permettre a un guichetier de creer un nouveau client et modifier ses informations et de consulter et debiter un compte. Elle doit aussi permettre a un chef d'agence de rendre inactif un client.
+Quand le projet démarre. L'application permet à un guichetier de creer un nouveau client et modifie ses informations et de consulter et débiter un compte,de faire des virements de compte à compte ainsi que Clôturer un compte. Elle permet un chef d'agence de rendre inactif un client,de consulter la liste de employer, d'en créer, d'en supprimer, d'en modifier.
 
 
 == 4. Résultats produits avec jeux d'essai commentés
