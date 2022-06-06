@@ -101,7 +101,7 @@ Se qui ouvre l'interface de création de client
 
 image::Image/DocUtilisateur/InterfaceNC.PNG[width=30%]
 
-** Rechercher les clients de l'Agence
+*** 4.5. Rechercher les clients de l'Agence
 
 image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 
