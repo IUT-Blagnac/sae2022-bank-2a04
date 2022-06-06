@@ -105,7 +105,7 @@ image::Image/DocUtilisateur/InterfaceNC.PNG[width=30%]
 
 image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 
-Suite à cette action L'application affiche les clients
+*** 4.5. Suite à cette action L'application affiche les clients:
 
 
 image::Image/DocUtilisateur/AffichageC.PNG[width=40%]
