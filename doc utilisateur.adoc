@@ -114,16 +114,17 @@ Sélectionné un compte et deux boutons deviennent disponibles
 
 image::Image/DocUtilisateur/BoutonCC.PNG[width=20%]
 
-** Se bouton permet d'ouvrir l'interface de gestion des comptes du client sélectionné
-
 image::Image/DocUtilisateur/InterfaceCC.PNG[width=20%]
 
+** Se bouton permet d'ouvrir l'interface de gestion des comptes du client sélectionné
 
 image::Image/DocUtilisateur/BoutonMC.PNG[width=20%]
 
+image::Image/DocUtilisateur/InterfaceMC.PNG[width=20%]
+
 ** Se bouton permet de modifier les informations du client
 
-image::Image/DocUtilisateur/InterfaceMC.PNG[width=20%]
+
 
 
 
