@@ -37,4 +37,4 @@ Voici un guide d'utilisation de l'application:
 
 image::https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Image/Doc%20Utilisateur/Interface%20arriv%C3%A9.PNG
 
-
+image::Image/LogoJAVAFX.png[width=10%]
