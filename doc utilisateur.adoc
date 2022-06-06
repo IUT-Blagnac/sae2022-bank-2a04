@@ -124,8 +124,24 @@ image::Image/DocUtilisateur/InterfaceMC.PNG[width=20%]
 
 ** Se bouton permet de modifier les informations du client
 
+=== 4.6. Interface Compte Clients
+
+Sur cette interface il faut sélectionné un compte
+
+Quand vous avez sélectionnés un compte, Vous avez accés à plusieurs fonctionnalité :
+
+ ** Voir les opérations liée au compte sélectionné
+ 
+ image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
 
 
+** Cloturer le compte
+
+image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
+
+** Créer un compte
+
+image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
 
 
