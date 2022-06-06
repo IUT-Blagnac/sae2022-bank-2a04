@@ -54,7 +54,7 @@ Se connecter:
 
 image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
 
-Puis quand vous vous connectez une interface de connection apparé :
+=== 2. Quand vous vous connectez une interface de connection apparé :
 
 image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
 
