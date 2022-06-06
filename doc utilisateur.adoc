@@ -47,12 +47,18 @@ Quitter l'application:
 
 image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
+
 Se connecter:
 
 ** Depuis Utisateur → Connection
 ** Depuis le bouton Connection
 
-image::Image/DocUtilisateur/BoutonConnection.PNG[width=30%]
+image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
+
+Puis quand vous vous connectez une interface de connection apparé :
+
+image::Image/DocUtilisateur/Interface connection.PNG[width=30%]
+
 
 
 
