@@ -124,6 +124,14 @@ image::Image/DocUtilisateur/InterfaceMC.PNG[width=20%]
 
 ** Se bouton permet de modifier les informations du client
 
+** Créer un compte
+
+Pour créer un nouveau compte nous allons avoir besoin de l'interface Nouveau client.
+
+
+image::Image/DocUtilisateur/NouveauClient.PNG[width=20%]
+
+
 === 4.6. Interface Compte Clients
 
 Sur cette interface il faut sélectionné un compte
