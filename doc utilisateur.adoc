@@ -151,8 +151,10 @@ Quand vous avez sélectionnés un compte, Vous avez accés à plusieurs fonction
 image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 
 ** Créer un compte
+ Lorsqu'on selectionne un compte et qu'on clique sur le bouton Comptes client ,
+image::Image/DocUtilisateur/interfaceClient.PNG[width=20%]
 
-
+image::Image/DocUtilisateur/interfaceClient2.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
