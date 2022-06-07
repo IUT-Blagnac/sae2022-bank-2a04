@@ -118,7 +118,7 @@ Model.orm.exception :: lève toutes les exceptions rencontrées dans l'applicati
 === Présentation de la V0
 image::Image/usecaseV0.png[align="center", width=40%]
 
-image::Image/DocTechnique/gestion_des_employe.png[align="center", width=40%]
+image::Image/DocTechnique/Diagramme_de_classe_V0.png[width=40%]
 
 
 Dans la version existante (V0), un guichetier peut :
