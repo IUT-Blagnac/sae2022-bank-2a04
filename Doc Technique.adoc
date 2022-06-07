@@ -153,6 +153,11 @@ Fontionnalité faite par : Jordan Quinveros
  
 ** Gerer les employés (le CRUD)
 
+
+=== V1
+
+image::Image/UsercaseV1.png[width=30%]
+
 === Créditer:
 
 C'est sur cette interface que l'opération créditer et disponible.
