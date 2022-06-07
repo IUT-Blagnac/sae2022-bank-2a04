@@ -141,7 +141,7 @@ image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 
 ** Créer un compte
 Pour créer un nouveau compte nous allons avoir besoin de l'interface Nouveau client.
-image::Image/DocUtilisateur/Capture.PNG[width=20%]
+image::Image/DocUtilisateur/Users\Etudiant\Desktop[width=20%]
 
 
 image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
