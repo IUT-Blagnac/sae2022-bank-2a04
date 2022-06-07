@@ -133,25 +133,25 @@ Dans la version existante (V0), un chef d’agence peut :
  **   Rendre inactif un client
  
  
-Liste des fonctionnalités développées:
+Liste des fonctionnalités développées :
   
- = Fontionnalité faite par : Romain Massip
+Fontionnalité faite par : Romain Massip
  
- == Crédit 
+** Crédit 
  
- == Virement
+** Virement
  
- = Fontionnalité faite par : Aya Nabaoui
+Fontionnalité faite par : Aya Nabaoui
  
- == Créer un compte 
+** Créer un compte 
  
- = Fontionnalité faite par : Jordan Quinveros
+Fontionnalité faite par : Jordan Quinveros
  
- == CLoturer un compte
+** CLoturer un compte
  
  package CompteManagementController
  
- == Gerer les employés (le CRUD)
+** Gerer les employés (le CRUD)
 
 === Créditer:
 
