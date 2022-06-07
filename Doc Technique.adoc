@@ -105,12 +105,12 @@ Application.tools :: est un package contenant les outils d'alertes, des constant
 Application.control :: permet de gérer les différents fenêtre créer dans le package view.
 Application :: permet de lancer les différentes méthodes pour initialiser le lancement de l'application
 
-Model.data regroupe tous les différents acteurs qui peuvent interagir et qui sont stocké dans la base de donnés, ainsi que leur different constructeur
+Model.data :: regroupe tous les différents acteurs qui peuvent interagir et qui sont stocké dans la base de donnés, ainsi que leur different constructeur
 Par exemple les clients, les employés.
 
-Model.orm permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
+Model.orm :: permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
 
-Model.orm.exception lève toutes les exceptions rencontrées dans l'application
+Model.orm.exception :: lève toutes les exceptions rencontrées dans l'application
 
 == 2.Presentation des différentes versions 
 
@@ -162,6 +162,18 @@ image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
 
 
 === Gérer les employés :
+Application.view :: 
+Application.tools :: 
+Application.control :: 
+Application :: 
+Model.data :: 
+
+
+Model.orm :: permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
+
+Model.orm.exception :: lève toutes les exceptions rencontrées dans l'application
+
+
 
 image::Image/DocTechnique/Jordan/gestion_des_employe.png[width=60%]
 
