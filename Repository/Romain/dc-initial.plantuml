@@ -124,8 +124,7 @@ skinparam agent {
 
 '---- Garder une seule des trois lignes ci-dessous pour generer la version souhaitee
 !define v0
-!define v1
-!define v2
+
 
 
 !ifdef v0
