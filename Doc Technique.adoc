@@ -155,11 +155,10 @@ Liste des fonctionnalités développées:
 
 === Créditer:
 
-image
-
 C'est sur cette interface que l'opération créditer et disponible.
 Quand vous clicker sur enregistrer crédit ,Vous activerlaméthode **doCrédit** qui vas enregistrer un Crédit de la méthode **enregistrerCredit** ,qui ensuite vas ouvrir la fenetre pour faire le crédit et vas paramétrer la page en fonction de qul action et choisie en passent par **doOperationEditorDialog** puis **displayDialog** puis si l'Opération n'est pas null il vas créer un **accessOperation** et faire un insert ,méthode **insertCredit** dans la base de données pour cela il vas appeler la procedure de la base de données créditee.Et enfin il vas remonter l'Opération et dans **doCredit** il vas mettre à jour l'affichage dans l'application.
 
+image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
 
 
 
