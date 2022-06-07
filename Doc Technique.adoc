@@ -163,10 +163,26 @@ image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
 
 === Gérer les employés :
 Application.view :: 
+** Classe : **EmployeEditorPaneController** 
+*** **doAjouter** (Méthode) Appelé par **empoyeeditorpane.fxml**
+** Classe : **EmployeManagementController**
+*** **doRechercher** Appelé par **empoyemanagement.fxml**
+*** **doModifierEmploye** Appelé par **empoyemanagement.fxml**
+*** **doNouveauEmploye** Appelé par **empoyemanagement.fxml**
 Application.tools :: 
 Application.control :: 
+** Classe : **EmployesManagement**. **EmployesManagement** qui permet de paramétrer la fenêtre des employés. 
+
+*** **modifierEmploye** (Méthode) => **EmployeManagementController** (Classe qui l'appele). 
+*** **nouveauEmployé** (Méthode) => **EmployeEditorPaneController** (Classe qui l'appele).
+*** **getListeEmployé** (Méthode) => **EmployeManagementController** (Classe qui l'appele).
+
+** Classe : **EmployeEditorPane** Permet l'ouverture de la fenêtre pour modifier un employé elle est appelé dans la classe: 
+*** **EmployeEditorPane** (Méthode) => **EmployesManagement** (Classe qui l'appele) => **EmployeManagementController** (Classe qui l'appele) 
+
 Application :: 
 Model.data :: 
+** Classe : **Employé** Classe qui définit les attributs d'un employé
 
 
 Model.orm :: permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
