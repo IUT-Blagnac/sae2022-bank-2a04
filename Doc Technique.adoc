@@ -161,4 +161,7 @@ Quand vous clicker sur enregistrer crédit ,Vous activerlaméthode **doCrédit**
 image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
 
 
+=== Gérer les employés :
+
+image::Image/DocTechnique/Jordan/gestion_des_employe.png[width=60%]
 
