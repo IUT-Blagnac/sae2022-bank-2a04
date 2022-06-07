@@ -135,7 +135,7 @@ Dans la version existante (V0), un chef d’agence peut :
   
  = Fontionnalité faite par : Romain Massip
  
- == Crédit / Débit
+ == Crédit 
  
  == Virement
  
