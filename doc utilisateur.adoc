@@ -131,6 +131,9 @@ Pour créer un nouveau compte nous allons avoir besoin de l'interface Nouveau cl
 
 image::Image/DocUtilisateur/NouveauClient.PNG[width=20%]
 
+Cette interface permet de remplir les iformations du clients nécessaire pour lui créer son compte , il doit renseigner son nom,prénom,adresse,son numéro de télephone et son e-mail. On peut également rendre le client actif ou inactif en cliquant sur le boutuon que l'on souhaite. Pour confirmer la création du nouveau compte client ,on clique sur le bouton Ajouter pour créer le compte.
+
+
 
 === 4.6. Interface Compte Clients
 
@@ -149,10 +152,6 @@ image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 
 ** Créer un compte
 
-Pour créer un nouveau compte nous allons avoir besoin de l'interface Nouveau client.
-
-
-image::Image/DocUtilisateur/NouveauClient.PNG[width=20%]
 
 
 image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
