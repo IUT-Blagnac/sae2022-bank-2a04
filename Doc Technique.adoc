@@ -1,6 +1,6 @@
 = Iut Blagnac
 
-= Documentation Technique, Daily Bank 
+= Documentation Technique
 
 
 =  SAE 2.05 / 2.01   Groupe 2A04
@@ -164,9 +164,30 @@ image::Image/UsercaseV1.png[width=30%]
 === Créditer:
 
 C'est sur cette interface que l'opération créditer et disponible.
-Quand vous clicker sur enregistrer crédit ,Vous activerlaméthode **doCrédit** qui vas enregistrer un Crédit de la méthode **enregistrerCredit** ,qui ensuite vas ouvrir la fenetre pour faire le crédit et vas paramétrer la page en fonction de qul action et choisie en passent par **doOperationEditorDialog** puis **displayDialog** puis si l'Opération n'est pas null il vas créer un **accessOperation** et faire un insert ,méthode **insertCredit** dans la base de données pour cela il vas appeler la procedure de la base de données créditee.Et enfin il vas remonter l'Opération et dans **doCredit** il vas mettre à jour l'affichage dans l'application.
 
 image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
+
+Application.view :: 
+** Classe : **OperationsManagementController**
+*** **doCredit** (Méthode) Appelé par **operationsmanagement.fxml**
+
+** Classe : **OperationEditorPaneController**.**OperationEditorPaneController** permet de Paramétrer l'interface en dépot.
+*** **displayDialog** (Méthode) Appelé par **doOperationEditorDialog**
+
+Application.control :: 
+** Classe : **OperationsManagement**
+*** **enregistrerCredit** (Méthode) Appelé par **doCredit**
+
+** Classe : **OperationEditorPane**.**OperationEditorPane** permet d'ouvrir l'interface pour rentrer le montant.
+*** **OperationEditorPane** (Méthode) Appelé par **enregistrerCredit**
+*** **doOperationEditorDialog** (Méthode) Appelé par **enregistrerCredit**
+
+Model.orm ::
+** Classe : **AccessOperation**
+*** **insertDebit** (Méthode) Appelé par **enregistrerCredit**
+
+SQL(procédure)::
+** Procédure : **Créditee** Appelé par **insertDebit**
 
 
 === Gérer les employés :
