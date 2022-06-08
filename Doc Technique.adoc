@@ -199,5 +199,5 @@ Model.orm.exception :: lève toutes les exceptions rencontrées dans l'applicati
 
 
 
-image::Image/DocTechnique/Jordan/gestion_des_employe.png[width=60%]
+image::Image/DocTechnique/Jordan/gestion_des_employe1.png[width=60%]
 
