@@ -227,3 +227,32 @@ Model.orm ::
 
 image::Image/DocTechnique/Jordan/gestion_des_employe1.png[width=60%]
 
+
+=== Virement :
+
+Cette fonctionnalité permet de faire des virements de compte à compte
+C'est sur cette interface que l'opération créditer et disponible.
+
+image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
+
+Application.view :: 
+** Classe : **OperationsManagementController**
+*** **doAutre** (Méthode) Appelé par **operationsmanagement.fxml**
+
+** Classe : **OperationEditorPaneController**.**OperationEditorPaneController** permet de Paramétrer l'interface en dépot.
+*** **displayDialog** (Méthode) Appelé par **doOperationEditorDialog**
+
+Application.control :: 
+** Classe : **OperationsManagement**
+*** **enregistrerVirement** (Méthode) Appelé par **doAutre**
+
+** Classe : **OperationEditorPane**.**OperationEditorPane** permet d'ouvrir l'interface pour rentrer le montant.
+*** **OperationEditorPane** (Méthode) Appelé par **enregistrerVirement**
+*** **doOperationEditorDialog** (Méthode) Appelé par **enregistrerVirement**
+
+Model.orm ::
+** Classe : **AccessOperation**
+*** **Virement** (Méthode) Appelé par **enregistrerVirement**
+
+SQL(procédure)::
+** Procédure : **Viree** Appelé par **Virement**
