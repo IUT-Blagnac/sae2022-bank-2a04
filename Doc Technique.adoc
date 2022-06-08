@@ -181,22 +181,23 @@ Application.tools ::
 Application.control :: 
 ** Classe : **EmployesManagement**. **EmployesManagement** qui permet de paramétrer la fenêtre des employés. 
 
-*** **modifierEmploye** (Méthode) => **EmployeManagementController** (Classe qui l'appele). 
-*** **nouveauEmployé** (Méthode) => **EmployeEditorPaneController** (Classe qui l'appele).
-*** **getListeEmployé** (Méthode) => **EmployeManagementController** (Classe qui l'appele).
+*** **modifierEmploye** (Méthode modifie un employé existant) => **EmployeManagementController** (Classe qui l'appele). 
+*** **nouveauEmployé** (Méthode ajoute un nouvel employé) => **EmployeEditorPaneController** (Classe qui l'appele).
+*** **getListeEmployé** (Méthode recupere la liste de tous les employés) => **EmployeManagementController** (Classe qui l'appele).
 
 ** Classe : **EmployeEditorPane** Permet l'ouverture de la fenêtre pour modifier un employé elle est appelé dans la classe: 
-*** **EmployeEditorPane** (Méthode) => **EmployesManagement** (Classe qui l'appele) => **EmployeManagementController** (Classe qui l'appele) 
+*** **EmployeEditorPane** (Méthode pour parametre la fenetre) => **EmployesManagement** (Classe qui l'appele) => **EmployeManagementController** (Classe qui l'appele) 
 
-Application :: 
 Model.data :: 
 ** Classe : **Employé** Classe qui définit les attributs d'un employé
 
 
-Model.orm :: permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
-
-Model.orm.exception :: lève toutes les exceptions rencontrées dans l'application
-
+Model.orm :: 
+** Classe : **AccessEmploye** 
+*** **getEmploye** (Méthode pour récuperer 1 employé) => **DailyBankMainFrame** (Classe qui l'appele).
+*** **insertEmploye** (Méthode pour ajouter des employés) => **EmployeManagement** (Classe qui l'appele)  => **EmployeEditorPaneController** (Classe qui l'appele).
+*** **updateEmploye** (Méthode pour modifier des employés) => **EmployeManagement** (Classe qui l'appele)  => **EmployeEditorPaneController** (Classe qui l'appele).
+*** **getEmploye1** (Méthode pour récuperer tous les employés)  => **EmployeManagement** (Classe qui l'appele)
 
 
 image::Image/DocTechnique/Jordan/gestion_des_employe1.png[width=60%]
