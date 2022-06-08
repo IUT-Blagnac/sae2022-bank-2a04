@@ -155,6 +155,8 @@ image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 Lorsqu'on selectionne un compte et qu'on clique sur le bouton Comptes client une fenetre gestion des comptes s'ouvre ou apparait le solde le découvert Autorise du client selectionné.
 
 
+image::Image/DocUtilisateur/interfaceClient2.PNG[width=20%]
+
 
 
 Pour créer le nouveau compte , on appuie sur le bouton nouveau compte qui nous redirige vers une nouvelle fenetre ou s'affiche les informations sur le nouveau compte. On choisit le solde que l'on souhaite ajouter ansi que le découvert que l'on souhaite, les autres informations tel que l'ID client, ID agence et nuuméro de compte sont automatiquement génerer par la base de donnée.
@@ -163,7 +165,7 @@ Pour créer le nouveau compte , on appuie sur le bouton nouveau compte qui nous 
 image::Image/DocUtilisateur/interfaceClient.PNG[width=20%]
 
 
-image::Image/DocUtilisateur/interfaceClient2.PNG[width=20%]
+
 
 image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
