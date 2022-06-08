@@ -32,14 +32,14 @@ Penser aussi à taguer les livrables.
 |         | Recette V1  |                      | 
 |         | Suivi projet|   | 
 | 22/05   | Gantt V2  à jour    |       | 
-|         | Doc. Util. V1 |         |         
+|         | Doc. Util. V1 |         |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc         
 |         | Doc. Tec. V1 |                |     
 |         | Code V1     |                     | 
 |         | Recette V1 |                      | 
 |         | Gantt V3 à jour   |                      | 
 |         | `jar` projet |    | 
 | 05/06   | Gantt V3 à Jour  |    |  
-|         | Doc. Util. V2 |         |           
+|         | Doc. Util. V2 |         |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc            
 |         | Doc. Tec. V2 |    |     
 |         | Code V2     |                       |
 |         | Recette V2  |   |
