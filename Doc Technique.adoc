@@ -256,3 +256,12 @@ Model.orm ::
 
 SQL(procédure)::
 ** Procédure : **Viree** Appelé par **Virement**
+
+=== Créer compte:
+Cette fonctionnalité permet de créer des nouveaux comptes .
+C'est sur cette interface que l'opération créer compte est disponible.
+
+
+
+image::Image/DocTechnique/Jordan/doctec.png[width=60%]
+
