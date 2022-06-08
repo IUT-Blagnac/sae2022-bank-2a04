@@ -1,6 +1,6 @@
 = Iut Blagnac
 
-= Documentation Technique
+= Documentation Technique, Daily Bank
 
 
 =  SAE 2.05 / 2.01   Groupe 2A04
