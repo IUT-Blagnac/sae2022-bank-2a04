@@ -173,11 +173,12 @@ image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
 Application.view :: 
 ** Classe : **EmployeEditorPaneController** 
 *** **doAjouter** (Méthode) Appelé par **empoyeeditorpane.fxml**
+
 ** Classe : **EmployeManagementController**
 *** **doRechercher** Appelé par **empoyemanagement.fxml**
 *** **doModifierEmploye** Appelé par **empoyemanagement.fxml**
 *** **doNouveauEmploye** Appelé par **empoyemanagement.fxml**
-Application.tools :: 
+
 Application.control :: 
 ** Classe : **EmployesManagement**. **EmployesManagement** qui permet de paramétrer la fenêtre des employés. 
 
