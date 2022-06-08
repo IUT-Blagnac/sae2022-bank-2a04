@@ -170,6 +170,9 @@ image::Image/DocUtilisateur/InterfaceCP.PNG[width=60%]
 
 
 === Gérer les employés :
+
+Cette interface permet de voir la liste de tous les employés ou de les filtrer avec la recherche. On peut aussi faire le CRUD.
+
 Application.view :: 
 ** Classe : **EmployeEditorPaneController** 
 *** **doAjouter** (Méthode) Appelé par **empoyeeditorpane.fxml**
