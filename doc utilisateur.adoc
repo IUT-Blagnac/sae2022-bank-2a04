@@ -35,53 +35,52 @@ Quand le projet démarre. L'application permet à un guichetier de creer un nouv
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-=== 4.1. A l'ouverture de l'application ,Vous arrivez sur cette page:
+
+=== 4.1. Interface d'Arriver:
+
+A l'ouverture de l'application ,Vous arrivez sur cette page:
 
 image::Image/DocUtilisateur/InterfaceArrive.PNG[width=30%]
 
-Sur cette page Deux actions peuvent être affectuer
-
-Quitter l'application:
-
-** Depuis la crois en haut a droite
-** Depuis Utisateur → Quitter
+Sur cette page Deux actions peuvent être affectuer:
 
 image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
+**Quitter l'application:**
 
-Se connecter:
+*** Depuis la crois en haut a droite
+*** Depuis Utisateur → Quitter
 
-** Depuis Utisateur → Connection
-** Depuis le bouton Connection
+**Se connecter:**
+
+*** Depuis Utisateur → Connection
+*** Depuis le bouton Connection
 
 image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
 
-=== 4.2. Quand vous vous connectez une interface de connection apparé :
+=== 4.2. Interface de Connection:
 
 image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
 
-
 Rentrez vos identifiant et mot de passe de connection
 
-=== 4.3. Quand vous êtes connectés :
+=== 4.3. Interface d'Arriver Connecté :
 
 image::Image/DocUtilisateur/InterfaceConnecter.PNG[width=40%]
 
 Sur cette page de nouvelle fonctionnalité sont disponibles:
 
-Se Déconnecter:
-
-** Utilisateur → Déconnection
-** Bouton déconnecter
-
-Accéder aux interface Client et Employer:
-
-** Gestion → Employés
-** Gestion → Clients
-
 image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
-Accédons à l'interface Clients
+**Se Déconnecter:**
+
+*** Utilisateur → Déconnection
+*** Bouton déconnecter
+
+**Accéder aux interface Client et Employer:**
+
+*** Gestion → Employés
+*** Gestion → Clients
 
 === 4.4. Interface Clients
 
@@ -89,19 +88,19 @@ image::Image/DocUtilisateur/InterfaceGC.PNG[width=30%]
 
 Sur cette page 3 fonctionalitées sont disponibles:
 
-** Quitter l'interface Client
+**Quitter l'interface Client**
 
 image::Image/DocUtilisateur/CaptureRA.PNG[width=20%]
 
-** Créer un client
+**Créer un client**
 
 image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
-Se qui ouvre l'interface de création de client
+Se qui ouvre l'interface de création de client 
 
 image::Image/DocUtilisateur/InterfaceNC.PNG[width=30%]
 
-** Rechercher les clients de l'Agence
+**Rechercher les clients de l'Agence**
 
 image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
 
