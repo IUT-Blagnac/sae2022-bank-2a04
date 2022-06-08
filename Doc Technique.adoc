@@ -265,3 +265,7 @@ C'est sur cette interface que l'opération créer compte est disponible.
 
 image::Image/DocTechnique/doctec.png[width=60%]
 
+Application.control :: 
+** Classe : **ComptesManagement.javar**
+*** **creerCompte** (Méthode) Appelé par ****
+
