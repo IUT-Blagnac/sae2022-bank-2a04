@@ -263,5 +263,5 @@ C'est sur cette interface que l'opération créer compte est disponible.
 
 
 
-image::Image/DocTechnique/Jordan/doctec.png[width=60%]
+image::Image/DocTechnique/doctec.png[width=60%]
 
