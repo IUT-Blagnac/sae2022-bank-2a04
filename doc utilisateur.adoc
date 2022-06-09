@@ -184,25 +184,25 @@ Pour cela 3 fonctionnalité sont disponible:
 
 **Enregistrer Débit**
 
-image::Image/DocUtilisateur/EngD.PNG[width=20%]
+image::Image/DocUtilisateur/BoutonEngD.PNG[width=20%]
 
 *** Ouvre l'interface pour effectué un retrait.
 
 **Enregistrer Crédit**
 
-image::Image/DocUtilisateur/EngC.PNG[width=20%]
+image::Image/DocUtilisateur/BoutonEngC.PNG[width=20%]
 
 *** Ouvre l'interface pour effectué un dépot.
 
 **Enregistrer Virement**
 
-image::Image/DocUtilisateur/EngV.PNG[width=20%]
+image::Image/DocUtilisateur/BoutonEngV.PNG[width=20%]
 
 *** Ouvre l'interface pour effectué un virement a un compte du meme client.
 
 **Retour**
 
-image::Image/DocUtilisateur/BountonRGCP.PNG[width=20%]
+image::Image/DocUtilisateur/BoutonRGCP.PNG[width=20%]
 
 === 4.10. Interface Débit
 
