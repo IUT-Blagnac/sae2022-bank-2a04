@@ -40,7 +40,7 @@ Voici un guide d'utilisation de l'application:
 
 A l'ouverture de l'application ,Vous arrivez sur cette page:
 
-image::Image/DocUtilisateur/InterfaceArrive.PNG[width=30%]
+image::Image/DocUtilisateur/InterfaceArrive.PNG[width=50%]
 
 Sur cette page Deux actions peuvent être affectuer:
 
@@ -56,17 +56,17 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 *** Depuis Utisateur → Connection
 *** Depuis le bouton Connection
 
-image::Image/DocUtilisateur/BoutonConnection.PNG[width=10%]
+image::Image/DocUtilisateur/BoutonConnection.PNG[width=20%]
 
 === 4.2. Interface de Connection:
 
-image::Image/DocUtilisateur/Interface connection.PNG[width=40%]
+image::Image/DocUtilisateur/Interface connection.PNG[width=50%]
 
 Rentrez vos identifiant et mot de passe de connection
 
 === 4.3. Interface d'Arriver Connecté :
 
-image::Image/DocUtilisateur/InterfaceConnecter.PNG[width=40%]
+image::Image/DocUtilisateur/InterfaceConnecter.PNG[width=50%]
 
 Sur cette page de nouvelle fonctionnalité sont disponibles:
 
@@ -82,9 +82,9 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 *** Gestion → Employés
 *** Gestion → Clients
 
-=== 4.4. Interface Clients
+=== 4.4. Interface Clients [[Int_Client]]
 
-image::Image/DocUtilisateur/InterfaceGC.PNG[width=30%]
+image::Image/DocUtilisateur/InterfaceGC.PNG[width=50%]
 
 Sur cette page 3 fonctionalitées sont disponibles:
 
@@ -118,7 +118,7 @@ image::Image/DocUtilisateur/BoutonCC.PNG[width=20%]
 
 **Modifier un Client**
 
-image::Image/DocUtilisateur/BoutonMC.PNG[width=50%]
+image::Image/DocUtilisateur/BoutonMC.PNG[width=20%]
 
 *** Vas ouvrir une interface avec les informations présente pour les modifiers.
 
@@ -166,7 +166,7 @@ image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonRGC.PNG[width=20%]
 
-*** Permet de revenir a l'interface de gestion des clients.
+*** Permet de revenir a l'interface de gestion des clients. <<Int_Client>>
 
 === 4.8. interface Nouveau Compte
 
