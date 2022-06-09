@@ -110,65 +110,117 @@ image::Image/DocUtilisateur/AffichageC.PNG[width=50%]
 
 **Sélectionné un compte et deux boutons deviennent disponibles**
 
-**
+**Compte Client**
 
-image::Image/DocUtilisateur/BoutonCC.PNG[width=20%]
+image::Image/DocUtilisateur/BoutonCC.PNG[width=0%]
 
-image::Image/DocUtilisateur/InterfaceCC.PNG[width=20%]
+*** Vas ouvrir l'interface avec tout les comptes du client sélectionné.
 
-** Se bouton permet d'ouvrir l'interface de gestion des comptes du client sélectionné
+**Modifier un Client**
 
-image::Image/DocUtilisateur/BoutonMC.PNG[width=20%]
+image::Image/DocUtilisateur/AffichageC.PNG[width=50%]
 
-image::Image/DocUtilisateur/InterfaceMC.PNG[width=20%]
+*** Vas ouvrir une interface avec les informations présente pour les modifiers.
 
-** Se bouton permet de modifier les informations du client
+=== 4.5. Interface Création Client
 
-** Créer un compte
+image::Image/DocUtilisateur/InterfaceNC.PNG[width=50%]
 
-Pour créer un nouveau compte nous allons avoir besoin de l'interface Nouveau client.
+Cette interface permet de créer un Client
 
+*** Pour cela il faut remplir tout les champs.
 
-image::Image/DocUtilisateur/NouveauClient.PNG[width=20%]
+=== 4.6. Modifier Client
 
-Cette interface permet de remplir les iformations du clients nécessaire pour lui créer son compte , il doit renseigner son nom,prénom,adresse,son numéro de télephone et son e-mail. On peut également rendre le client actif ou inactif en cliquant sur le boutuon que l'on souhaite. Pour confirmer la création du nouveau compte client ,on clique sur le bouton Ajouter pour créer le compte.
+image::Image/DocUtilisateur/InterfaceMC.PNG[width=50%]
 
+Cette interface permet de modifer les informations d'un client.
 
+=== 4.7. Compte d'un Client
 
-=== 4.6. Interface Compte Clients
+image::Image/DocUtilisateur/InterfaceCC.PNG[width=50%]
 
-Sur cette interface il faut sélectionné un compte
+Cette interface permet devoir les comptes du client sélectionné.
 
-Quand vous avez sélectionnés un compte, Vous avez accés à plusieurs fonctionnalité :
+Dans cette interface on peut faire:
 
- ** Voir les opérations liée au compte sélectionné
- 
- image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
+**Nouveau Compte**
 
+image::Image/DocUtilisateur/BoutonNCP.PNG[width=20%]
 
-** Cloturer le compte
+*** Ouvre l'interface de Création de Compte.
+
+**Supprimer Compte**
 
 image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 
-** Créer un compte
+***Cloture le compte si le solde est a 0.
 
-Lorsqu'on sélectionne un compte et qu'on clique sur le bouton Comptes client une  fenêtre  gestion des comptes s'ouvre où apparaît le solde et le découvert Autorisé du client selectionné.
+**Voir Opération**
 
+image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
 
-image::Image/DocUtilisateur/interfaceClient2.PNG[width=40%]
+***Permet d'ouvrir l'interface pour voir et faire des opération sur le compte sélectionné.
 
+**Retour**
 
+image::Image/DocUtilisateur/BoutonRGC.PNG[width=20%]
 
-Pour créer le nouveau compte , on appuie sur le bouton nouveau compte qui nous redirige vers une nouvelle fenêtre où s'affiche les informations sur le nouveau compte. On choisit le solde et le découvert  que l'on souhaite ajouter  , les autres informations tel que l'ID client, ID agence et numéro de compte sont automatiquement générés par la base de données.
+*** Permet de revenir a l'interface de gestion des clients.
 
+=== 4.8. interface Nouveau Compte
 
-image::Image/DocUtilisateur/interfaceClient.PNG[width=40%]
+image::Image/DocUtilisateur/InterfaceNCP.PNG[width=50%]
 
+Interface de création du compte pour le client sélectionnné précédament.
 
+=== 4.9. Inteface Des Opérations
 
+image::Image/DocUtilisateur/InterfaceVO.PNG[width=50%]
 
-image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
+Interface qui permet de voir les Opération déjà effectué mais aussi d'en faire
 
+Pour cela 3 fonctionnalité sont disponible:
+
+**Enregistrer Débit**
+
+image::Image/DocUtilisateur/EngD.PNG[width=20%]
+
+*** Ouvre l'interface pour effectué un retrait.
+
+**Enregistrer Crédit**
+
+image::Image/DocUtilisateur/EngC.PNG[width=20%]
+
+*** Ouvre l'interface pour effectué un dépot.
+
+**Enregistrer Virement**
+
+image::Image/DocUtilisateur/EngV.PNG[width=20%]
+
+*** Ouvre l'interface pour effectué un virement a un compte du meme client.
+
+**Retour**
+
+image::Image/DocUtilisateur/BountonRGCP.PNG[width=20%]
+
+=== 4.10. Interface Débit
+
+image::Image/DocUtilisateur/InterfaceEngD.PNG[width=50%]
+
+Interface ou on peut choisir le montant a retirer.
+
+=== 4.11. Interface Crédit
+
+image::Image/DocUtilisateur/InterfaceEngC.PNG[width=50%]
+
+Interface ou on peut choisir le montant a Créditer.
+
+=== 4.12. Interface Virement
+
+image::Image/DocUtilisateur/InterfaceEngV.PNG[width=50%]
+
+Interface ou on peut choisir le montant a Transférer a un autre client. 
 
 
 
