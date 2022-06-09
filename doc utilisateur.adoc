@@ -112,13 +112,13 @@ image::Image/DocUtilisateur/AffichageC.PNG[width=50%]
 
 **Compte Client**
 
-image::Image/DocUtilisateur/BoutonCC.PNG[width=0%]
+image::Image/DocUtilisateur/BoutonCC.PNG[width=20%]
 
 *** Vas ouvrir l'interface avec tout les comptes du client sélectionné.
 
 **Modifier un Client**
 
-image::Image/DocUtilisateur/AffichageC.PNG[width=50%]
+image::Image/DocUtilisateur/BoutonMC.PNG[width=50%]
 
 *** Vas ouvrir une interface avec les informations présente pour les modifiers.
 
@@ -154,13 +154,13 @@ image::Image/DocUtilisateur/BoutonNCP.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 
-***Cloture le compte si le solde est a 0.
+*** Cloture le compte si le solde est a 0.
 
 **Voir Opération**
 
 image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
 
-***Permet d'ouvrir l'interface pour voir et faire des opération sur le compte sélectionné.
+*** Permet d'ouvrir l'interface pour voir et faire des opération sur le compte sélectionné.
 
 **Retour**
 
