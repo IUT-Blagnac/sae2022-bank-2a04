@@ -41,7 +41,7 @@ Penser aussi à taguer les livrables.
 | 05/06   | Gantt V3 à Jour  |    |  
 |         | Doc. Util. V2 |         |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc            
 |         | Doc. Tec. V2 |    |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     
-|         | Code V2     |                       |
+|         | Code V2     |                       |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/V1.2/DAILY_BANK_FX_V0.zip
 |         | Recette V2  |   |
 |         | `jar` projet |     |
 |12/06   | Gantt V3 à Jour  |    |  
