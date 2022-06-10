@@ -33,20 +33,20 @@ Penser aussi à taguer les livrables.
 |         | Suivi projet|   | 
 | 22/05   | Gantt V2  à jour    |       | 
 |         | Doc. Util. V1 |         |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc         
-|         | Doc. Tec. V1 |                |     
+|         | Doc. Tec. V1 |                |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     
 |         | Code V1     |                     | 
 |         | Recette V1 |                      | 
 |         | Gantt V3 à jour   |                      | 
 |         | `jar` projet |    | 
 | 05/06   | Gantt V3 à Jour  |    |  
 |         | Doc. Util. V2 |         |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc            
-|         | Doc. Tec. V2 |    |     
+|         | Doc. Tec. V2 |    |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     
 |         | Code V2     |                       |
 |         | Recette V2  |   |
 |         | `jar` projet |     |
 |12/06   | Gantt V3 à Jour  |    |  
-|         | Doc. Util. V3 |         |           
-|         | Doc. Tec. V3 |    |     
+|         | Doc. Util. V3 |         |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc      
+|         | Doc. Tec. V3 |    |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     
 |         | Code V3     |                       |
 |         | Recette V3  |   |
 |         | `jar` projet |     |
