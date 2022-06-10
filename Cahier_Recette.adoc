@@ -11,7 +11,27 @@ v1.0, 2022-06-08
 = Table des matières
 <<id,Objectif du projet>>
 
+<<id2,Partie Test>>
 
+<<id3,Gestions des Clients>>
+
+** <<id4,Cloturer Compte>>
+
+** <<id5,Nouveau Compte>>
+
+** <<id6,Débit/Crédit/Virement>>
+
+** <<id7,Nouveau Client>>
+
+** <<id8,Générer PDF>>
+
+<<id9,Gestions des Employés>>
+
+** <<id10,Modifier Employé>>
+
+** <<id11,Nouveau Employé>>
+
+** <<id12,Recherche Employé>>
 
 
 [[id,Objectif du projet]]
@@ -24,5 +44,38 @@ gestion des comptes clients pour remplacer plusieurs outils obsolètes.
 Ce développement s’inscrit dans le cadre de la restructuration de ses 
 services bancaires et l’application sera déployée dans les 100 agences 
 que compte son réseau.
+
+[[id2,Test]]
+== 2.Test
+
+[[id3,Gestions des Clients]]
+=== A) Gestions des Clients
+
+[[id4,Cloturer Compte]]
+==== A.1) Cloturer Compte
+
+[[id5,Nouveau Compte]]
+==== A.2) Nouveau Compte
+
+[[id6,Débit/Crédit/Virement]]
+==== A.3) Débit/Crédit/Virement
+
+[[id7,Nouveau Client]]
+==== A.4) Nouveau Client
+
+[[id8,Générer PDF]]
+==== A.5) Générer PDF
+
+[[id9,Gestions des Employés]]
+=== B) Gestions des Employés
+
+[[id10,Modifier Employé]]
+==== B.1) Modifier Employé
+
+[[id11,Nouveau Employé]]
+==== B.2) Nouveau Employé
+
+[[id12,Recherche Employé]]
+==== B.3) Recherche Employé
 
 
