@@ -82,11 +82,11 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 *** Gestion → Employés
 *** Gestion → Clients
 
-=== 4.4. Interface Clients [[Int_Client]]
+=== 4.4. Interface Clients 
 
 image::Image/DocUtilisateur/InterfaceGC.PNG[width=50%]
 
-Sur cette page 3 fonctionalitées sont disponibles:
+Sur cette page plusieurs fonctionalitées sont disponibles:
 
 **Quitter l'interface Client**
 
@@ -98,17 +98,7 @@ image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
 *** Se qui ouvre l'interface de création de client 
 
-**Rechercher les clients de l'Agence**
-
-image::Image/DocUtilisateur/BoutonR.PNG[width=20%]
-
-*** Permet de recherché et d'afficher tout les clients de l'agence.
-
-**Suite à cette action L'application affiche les clients:**
-
-image::Image/DocUtilisateur/AffichageC.PNG[width=50%]
-
-**Sélectionné un compte et deux boutons deviennent disponibles**
+**Sélectionné un compte et deux boutons deviennent disponibles :**
 
 **Compte Client**
 
@@ -166,7 +156,7 @@ image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonRGC.PNG[width=20%]
 
-*** Permet de revenir a l'interface de gestion des clients. <<Int_Client>>
+*** Permet de revenir a l'interface de gestion des clients. 
 
 === 4.8. interface Nouveau Compte
 
