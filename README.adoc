@@ -29,26 +29,26 @@ Penser aussi à taguer les livrables.
 |         | Gantt V3 |         |     
 |         | Doc. Tec. V1 |        |    
 |         | Doc User V1    |        |retard livraison V1 pour suivi !
-|         | Recette V1  |                      | 
+|         | Recette V1  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc                      | 
 |         | Suivi projet|   | 
 | 22/05   | Gantt V2  à jour    |       | 
 |         | Doc. Util. V1 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc          |        
 |         | Doc. Tec. V1 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc                  |   
 |         | Code V1     |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/V1/DAILY_BANK_FX_V1.rar                     | 
-|         | Recette V1 |                      | 
+|         | Recette V1 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc                      | 
 |         | Gantt V3 à jour   |                      | 
 |         | `jar` projet |    | 
 | 05/06   | Gantt V3 à Jour  |    |  
 |         | Doc. Util. V2 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc         |            
 |         | Doc. Tec. V2 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     |    
 |         | Code V2     |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/V1.2/DAILY_BANK_FX_V0.zip                       |
-|         | Recette V2  |   |
+|         | Recette V2  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc   |
 |         | `jar` projet |     |
 |12/06   | Gantt V3 à Jour  |    |  
 |         | Doc. Util. V3 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc         |      
 |         | Doc. Tec. V3 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     |    
 |         | Code V3     |                       |
-|         | Recette V3  |   |
+|         | Recette V3  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc   |
 |         | `jar` projet |     |
 |===
 == Les critères d'évaluation :SAE S2.05 Gestion de projet
