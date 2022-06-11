@@ -72,7 +72,7 @@ image::Image/Cahier_recette/cloturercompte2.png[width=30%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Nouveau Compte | Nouveau Compte  | Pour pouvoir créer un compte d'un client. Avec un id unique| Aucun compte avec le même id. Client déjà créer. Compte avec solde supérieur à 50€ et découvert ne pouvant être possitif.
+| A2 | Test Nouveau Compte | Nouveau Compte  | Pour pouvoir créer un compte d'un client. Avec un id unique| Aucun compte avec le même id. Client déjà créer. Compte avec solde supérieur à 50€ et découvert ne pouvant être possitif.
 |====================================
 
 Test réaliser avec succès. La création d'un nouveau compte fonctionne parafaitement.
@@ -87,7 +87,7 @@ image::Image/Cahier_recette/nouveaucompte2.png[width=30%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Débit/Crédit/Virement | Débit/Crédit/Virement  | Pour pouvoir cloturer un compte d'un client. Ne peut être réouvert si il est cloturer | Compte déja existant et non cloturer. Compte avec solde à 0.
+| A3 | Test Débit/Crédit/Virement | Débit/Crédit/Virement  | Pour pouvoir cloturer un compte d'un client. Ne peut être réouvert si il est cloturer | Compte déja existant et non cloturer. Compte avec solde à 0.
 |====================================
 
 Test réaliser avec succès. Les débits/ crédits/ virement sur un compte fonctionne parafaitement.
@@ -105,7 +105,7 @@ image::Image/Cahier_recette/Virement.png[width=30%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Nouveau Client, Modifier | Nouveau Client, Modifier  | Pour pouvoir créer un client ou le modifier. | Client ne pouvant avoir le même id qu'un autre. Peut avoir le même nom et prénom. Adresse mail valide (@), numéros de téléphone avec 10 chiffres.
+| A4 | Test Nouveau Client, Modifier | Nouveau Client, Modifier  | Pour pouvoir créer un client ou le modifier. | Client ne pouvant avoir le même id qu'un autre. Peut avoir le même nom et prénom. Adresse mail valide (@), numéros de téléphone avec 10 chiffres.
 |====================================
 
 Test réaliser avec succès. La création d'un nouveau  / modification d 'un client fonctionne parafaitement.
@@ -120,7 +120,7 @@ image::Image/Cahier_recette/modifclient.png[width=50%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Générer PDF | Générer PDF  | Pour pouvoir générer un pdf d'un compte en fonction du mois. Ne peut être générer que si il y a des transaction durant un mois donnés | Avoir un compte, ainsi que des transactions dans un mois (ex impossible d'imprimer le relevé de janvier si le compte est ouvert en mars)
+| A5 | Test Générer PDF | Générer PDF  | Pour pouvoir générer un pdf d'un compte en fonction du mois. Ne peut être générer que si il y a des transaction durant un mois donnés | Avoir un compte, ainsi que des transactions dans un mois (ex impossible d'imprimer le relevé de janvier si le compte est ouvert en mars)
 |====================================
 
 Test réaliser avec succès. La génération d'un PDF mensuel fonctionne parafaitement.
@@ -138,7 +138,7 @@ image::Image/Cahier_recette/generePDF2.png[width=40%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Modifier Employé | Modifier Employé  | Pour pouvoir modifier les renseignements d'un employé.| Nécessite que l'Employé soit déjà créer. Impossible de modifier l'id.
+| B1 | Test Modifier Employé | Modifier Employé  | Pour pouvoir modifier les renseignements d'un employé.| Nécessite que l'Employé soit déjà créer. Impossible de modifier l'id.
 |====================================
 
 Test réaliser avec succès. La modification d'un employé fonctionne parafaitement.
@@ -151,7 +151,7 @@ image::Image/Cahier_recette/modifemploye.png[width=40%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Nouveau Employé | Nouveau Employé  | Pour pouvoir créer les renseignements d'un employé. | Nécessite que l'Employé n'est pas l'id d'un autre. Ne peut contenir un champs vide.
+| B2 | Test Nouveau Employé | Nouveau Employé  | Pour pouvoir créer les renseignements d'un employé. | Nécessite que l'Employé n'est pas l'id d'un autre. Ne peut contenir un champs vide.
 |====================================
 
 Test réaliser avec succès. La création d'un employé fonctionne parafaitement.
@@ -164,7 +164,7 @@ image::Image/Cahier_recette/creationemploye.png[width=50%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A1 | Test Recherche Employé | Recherche Employé  | Pour pouvoir rechercher un employé.| Nécessite que l'employé existe, et de connaitre son login.
+| B3 | Test Recherche Employé | Recherche Employé  | Pour pouvoir rechercher un employé.| Nécessite que l'employé existe, et de connaitre son login.
 |====================================
 
 Test réaliser avec succès. La recherche d'un employé fonctionne parafaitement.
