@@ -262,10 +262,27 @@ Cette fonctionnalité permet de créer des nouveaux comptes .
 C'est sur cette interface que l'opération créer compte est disponible.
 
 
-
 image::Image/DocTechnique/doctec.png[width=60%]
 
+
+Application.view ::
+** Classe :**ComptesManagementController**
+*** **doNouveauCompte** (Méthode) Appelé par **comptesmanagement.fxml**
+** Classe :**ComptesEditorPaneController**
+*** **doNouveauCompte** (Méthode) Appelé par **doCompteEditorDialog**
+
 Application.control :: 
-** Classe : **ComptesManagement.javar**
-*** **creerCompte** (Méthode) Appelé par ****
+** Classe : **ComptesManagement**
+*** **creerCompte** (Méthode) Appelé par **doNouveauCompte**
+** Classe : **CompteEditorPane**
+*** **CompteEditorPane** (Méthode) Appelé par **creerCompte**
+*** **doCompteEditorDialog** (Méthode) Appelé par **creerCompte**
+
+Model.orm ::
+** Classe : **AccessCompteCourant**
+*** **AccessCompteCourant** (Méthode) Appelé par **creerCompte**
+*** **creerCompte** (Méthode) Appelé par **creerCompte**
+
+SQL(procédure)::
+** Procédure : **CreerCompte** Appelé par **creerCompte**
 
