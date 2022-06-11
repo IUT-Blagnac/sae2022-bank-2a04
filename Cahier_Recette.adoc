@@ -62,6 +62,11 @@ que compte son réseau.
 
 Test réaliser avec succès. La cloturation d'un compte fonctionne parafaitement.
 
+==== Fenêtre cloturer compte
+image::Image/Cahier_recette/cloturercompte1.png[width=30%]
+==== Exemple d'erreur
+image::Image/Cahier_recette/cloturercompte2.png[width=30%]
+
 [[id5,Nouveau Compte]]
 ==== A.2) Nouveau Compte
 
@@ -71,6 +76,11 @@ Test réaliser avec succès. La cloturation d'un compte fonctionne parafaitement
 |====================================
 
 Test réaliser avec succès. La création d'un nouveau compte fonctionne parafaitement.
+
+==== Fenêtre nouveau compte
+image::Image/Cahier_recette/nouveaucompte1.png[width=30%]
+==== Exemple d'erreur
+image::Image/Cahier_recette/nouveaucompte2.png[width=30%]
 
 [[id6,Débit/Crédit/Virement]]
 ==== A.3) Débit/Crédit/Virement
@@ -82,12 +92,12 @@ Test réaliser avec succès. La création d'un nouveau compte fonctionne parafai
 
 Test réaliser avec succès. Les débits/ crédits/ virement sur un compte fonctionne parafaitement.
 
-==== Débit :
-image::Image/Cahier_recette/debit.png [width=50%]
-==== Crédit :
-image::Image/Cahier_recette/credit.png [width=50%]
-==== Virement :
-image::Image/Cahier_recette/Virement.png [width=50%]
+==== Fenêtre Débit
+image::Image/Cahier_recette/debit.png[width=30%]
+==== Fenêtre Crédit
+image::Image/Cahier_recette/credit.png[width=30%]
+==== Fenêtre Virement
+image::Image/Cahier_recette/Virement.png[width=30%]
 
 
 [[id7,Nouveau Client]]
@@ -99,10 +109,11 @@ image::Image/Cahier_recette/Virement.png [width=50%]
 |====================================
 
 Test réaliser avec succès. La création d'un nouveau  / modification d 'un client fonctionne parafaitement.
+
 ==== Création d'un client
-image::Image/Cahier_recette/creationclient.png [width=50%]
+image::Image/Cahier_recette/creationclient.png[width=50%]
 ==== Modification d'un client
-image::Image/Cahier_recette/modifclient.png [width=50%]
+image::Image/Cahier_recette/modifclient.png[width=50%]
 
 [[id8,Générer PDF]]
 ==== A.5) Générer PDF
@@ -113,10 +124,11 @@ image::Image/Cahier_recette/modifclient.png [width=50%]
 |====================================
 
 Test réaliser avec succès. La génération d'un PDF mensuel fonctionne parafaitement.
+
 ==== Comment générer le pdf
-image::Image/Cahier_recette/generePDF1.png[width=50%]
+image::Image/Cahier_recette/generePDF1.png[width=40%]
 ==== Apercu du pdf
-image::Image/Cahier_recette/generePDF2.png[width=50%]
+image::Image/Cahier_recette/generePDF2.png[width=40%]
 
 [[id9,Gestions des Employés]]
 === B) Gestions des Employés
@@ -130,8 +142,9 @@ image::Image/Cahier_recette/generePDF2.png[width=50%]
 |====================================
 
 Test réaliser avec succès. La modification d'un employé fonctionne parafaitement.
+
 ==== Fenêtre de modification d'employé
-image::Image/Cahier_recette/modifemploye.png[width=50%]
+image::Image/Cahier_recette/modifemploye.png[width=40%]
 
 [[id11,Nouveau Employé]]
 ==== B.2) Nouveau Employé
@@ -143,6 +156,7 @@ image::Image/Cahier_recette/modifemploye.png[width=50%]
 
 Test réaliser avec succès. La création d'un employé fonctionne parafaitement.
 
+==== Fenêtre pour la création de nouveau employé
 image::Image/Cahier_recette/creationemploye.png[width=50%]
 
 [[id12,Recherche Employé]]
@@ -155,6 +169,7 @@ image::Image/Cahier_recette/creationemploye.png[width=50%]
 
 Test réaliser avec succès. La recherche d'un employé fonctionne parafaitement.
 
+==== Fenêtre d'affichage des employés
 image::Image/Cahier_recette/rechercheemploye.png[width=50%]
 ==== Recherche en temps réel, à chaque lettres ajoutés.
 image::Image/Cahier_recette/rechercheemploye1.png[width=50%]
