@@ -7,6 +7,7 @@
 
 Massip, Nabaoui, Quinveros<massip.romain@etu.univ-tlse2.fr, maisonaya@gmail.com, jordan.quinveros.pro@gmail.com>
 v1.0, 2022-06-08
+== Fais par Jordan Quinveros, et Romain Massip
 
 = Table des matières
 <<id,Objectif du projet>>
@@ -81,6 +82,14 @@ Test réaliser avec succès. La création d'un nouveau compte fonctionne parafai
 
 Test réaliser avec succès. Les débits/ crédits/ virement sur un compte fonctionne parafaitement.
 
+==== Débit :
+image::Image/Cahier_recette/debit.png [width=50%]
+==== Crédit :
+image::Image/Cahier_recette/credit.png [width=50%]
+==== Virement :
+image::Image/Cahier_recette/Virement.png [width=50%]
+
+
 [[id7,Nouveau Client]]
 ==== A.4) Nouveau Client, Modifier
 
@@ -90,6 +99,10 @@ Test réaliser avec succès. Les débits/ crédits/ virement sur un compte fonct
 |====================================
 
 Test réaliser avec succès. La création d'un nouveau  / modification d 'un client fonctionne parafaitement.
+==== Création d'un client
+image::Image/Cahier_recette/creationclient.png [width=50%]
+==== Modification d'un client
+image::Image/Cahier_recette/modifclient.png [width=50%]
 
 [[id8,Générer PDF]]
 ==== A.5) Générer PDF
@@ -100,6 +113,10 @@ Test réaliser avec succès. La création d'un nouveau  / modification d 'un cli
 |====================================
 
 Test réaliser avec succès. La génération d'un PDF mensuel fonctionne parafaitement.
+==== Comment générer le pdf
+image::Image/Cahier_recette/generePDF1.png[width=50%]
+==== Apercu du pdf
+image::Image/Cahier_recette/generePDF2.png[width=50%]
 
 [[id9,Gestions des Employés]]
 === B) Gestions des Employés
@@ -113,6 +130,8 @@ Test réaliser avec succès. La génération d'un PDF mensuel fonctionne parafai
 |====================================
 
 Test réaliser avec succès. La modification d'un employé fonctionne parafaitement.
+==== Fenêtre de modification d'employé
+image::Image/Cahier_recette/modifemploye.png[width=50%]
 
 [[id11,Nouveau Employé]]
 ==== B.2) Nouveau Employé
@@ -124,6 +143,8 @@ Test réaliser avec succès. La modification d'un employé fonctionne parafaitem
 
 Test réaliser avec succès. La création d'un employé fonctionne parafaitement.
 
+image::Image/Cahier_recette/creationemploye.png[width=50%]
+
 [[id12,Recherche Employé]]
 ==== B.3) Recherche Employé
 
@@ -133,3 +154,7 @@ Test réaliser avec succès. La création d'un employé fonctionne parafaitement
 |====================================
 
 Test réaliser avec succès. La recherche d'un employé fonctionne parafaitement.
+
+image::Image/Cahier_recette/rechercheemploye.png[width=50%]
+==== Recherche en temps réel, à chaque lettres ajoutés.
+image::Image/Cahier_recette/rechercheemploye1.png[width=50%]
