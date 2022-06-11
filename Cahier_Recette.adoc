@@ -87,7 +87,7 @@ image::Image/Cahier_recette/nouveaucompte2.png[width=30%]
 
 |====================================
 |id Test |nom Test | Nom cas d’utilisation |Conditions de satisfaction |Préconditions
-| A3 | Test Débit/Crédit/Virement | Débit/Crédit/Virement  | Pour pouvoir cloturer un compte d'un client. Ne peut être réouvert si il est cloturer | Compte déja existant et non cloturer. Compte avec solde à 0.
+| A3 | Test Débit/Crédit/Virement | Débit/Crédit/Virement  | Pour pouvoir Débit/Crédit/Virement  un compte d'un client.  | Débit : ne peut dépasser le découvert. Credit : Maximum 1 millions. Virement ne pouvant etre effectuer sur un compte cloturer et ne peut dépasser le découvert
 |====================================
 
 Test réaliser avec succès. Les débits/ crédits/ virement sur un compte fonctionne parafaitement.
