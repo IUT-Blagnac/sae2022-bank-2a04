@@ -31,9 +31,9 @@ v1.0, 2022-06-08
 
 <<id17,Interface Employé>>
 
-** <<id18,Interface d'arrivé d'Employé>>
-** <<id19,Création d'un employé>>
-** <<id20,Modification d'un employé>>
+** <<id18,5.1 Interface d'arrivé d'Employé>>
+** <<id19,5.2 Création d'un employé>>
+** <<id20,5.3 Modification d'un employé>>
 
 
 
