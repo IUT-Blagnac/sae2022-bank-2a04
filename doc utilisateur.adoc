@@ -47,13 +47,13 @@ La banque DailyBank souhaite développer une application JAVA-Oracle de gestion 
 [[id2,Installation utilisation]]
 
 == 2.Installation utilisation 
-Pour commencer l'installation de l'application, on commence par télécharger le jar.Puis le projet démarre en lançant le jar depuis l'invite de commande(CMD).Pour cela il faut avoir la bonne version de java,pour cela exécuté la commande **java -version** , la version doit être la 8 si ce n'est pas le cas télécharger la version 8 de java.Puis quand cela est fait executer la commande **java -jar <nom du fichier jar>** et L'application devrait se lancer
+Pour commencer l'installation de l'application, on commence par télécharger le jar. Puis le projet démarre en lançant le jar depuis l'invite de commande(CMD). Pour cela il faut avoir la bonne version de java, pour cela exécuté la commande **java -version** , la version doit être la 8 si ce n'est pas le cas télécharger la version 8 de java. Puis quand cela est fait exécuter la commande **java -jar <nom du fichier jar>** et L'application devrait se lancer.
 
 
 [[id3,Fonctionnement]]
 
 == 3.Fonctionnement
-Quand le projet démarre. L'application permet à un guichetier de creer un nouveau client et modifie ses informations et de consulter et débiter un compte,de faire des virements de compte à compte ainsi que Clôturer un compte. Elle permet un chef d'agence de rendre inactif un client,de consulter la liste de employer, d'en créer, d'en supprimer, d'en modifier.
+Quand le projet démarre. L'application permet à un guichetier de créer un nouveau client et modifie ses informations et de consulter et débiter un compte, de faire des virements de compte à compte ainsi que Clôturer un compte. Elle permet un chef d'agence de rendre inactif un client, de consulter la liste d'employer, d'en créer, d'en supprimer, d'en modifier.
 
 [[id4,Utilisation]]
 == 4. Utilisation
@@ -62,7 +62,7 @@ Voici un guide d'utilisation de l'application:
 [[id5,Interface d'Arriver]]
 === 4.1. Interface d'Arriver:
 
-A l'ouverture de l'application ,Vous arrivez sur cette page:
+À l'ouverture de l'application, Vous arrivez sur cette page:
 
 image::Image/DocUtilisateur/InterfaceArrive.PNG[width=50%]
 
@@ -85,11 +85,11 @@ image::Image/DocUtilisateur/BoutonConnection.PNG[width=20%]
 
 [[id6,Interface de Connection]]
 
-=== 4.2. Interface de Connection:
+=== 4.2. Interface de Connexion:
 
 image::Image/DocUtilisateur/Interface connection.PNG[width=50%]
 
-Rentrez vos identifiant et mot de passe de connection
+Rentrez vos identifiant et mot de passe de connexion
 
 [[id7,Interface d'Arriver Connecté]]
 
@@ -97,7 +97,7 @@ Rentrez vos identifiant et mot de passe de connection
 
 image::Image/DocUtilisateur/InterfaceConnecter.PNG[width=50%]
 
-Sur cette page de nouvelle fonctionnalité sont disponibles:
+Sur cette page de nouvelles fonctionnalités sont disponibles:
 
 image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
@@ -106,7 +106,7 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 *** Utilisateur → Déconnection
 *** Bouton déconnecter
 
-**Accéder aux interface Client et Employer:**
+**Accéder aux interfaces Client et Employer:**
 
 *** Gestion → Employés
 *** Gestion → Clients
@@ -117,7 +117,7 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
 image::Image/DocUtilisateur/InterfaceGC.PNG[width=50%]
 
-Sur cette page plusieurs fonctionalitées sont disponibles:
+Sur cette page plusieurs fonctionnalités sont disponibles:
 
 **Quitter l'interface Client**
 
@@ -127,7 +127,7 @@ image::Image/DocUtilisateur/CaptureRA.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
-*** Se qui ouvre l'interface de création de client 
+*** Ce qui ouvre l'interface de création du client 
 
 **Sélectionné un compte et deux boutons deviennent disponibles :**
 
@@ -135,13 +135,13 @@ image::Image/DocUtilisateur/BoutonNC.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonCC.PNG[width=20%]
 
-*** Vas ouvrir l'interface avec tout les comptes du client sélectionné.
+*** Va ouvrir l'interface avec tous les comptes du client sélectionné.
 
 **Modifier un Client**
 
 image::Image/DocUtilisateur/BoutonMC.PNG[width=20%]
 
-*** Vas ouvrir une interface avec les informations présente pour les modifiers.
+*** Va ouvrir une interface avec les informations présente pour les modifiers.
 
 [[id9,Interface Création Client]]
 
@@ -151,7 +151,7 @@ image::Image/DocUtilisateur/InterfaceNC.PNG[width=50%]
 
 Cette interface permet de créer un Client
 
-*** Pour cela il faut remplir tout les champs.
+*** Pour cela il faut remplir tous les champs.
 
 [[id10,Modifier Client]]
 
@@ -159,7 +159,7 @@ Cette interface permet de créer un Client
 
 image::Image/DocUtilisateur/InterfaceMC.PNG[width=50%]
 
-Cette interface permet de modifer les informations d'un client.
+Cette interface permet de modifier les informations d'un client.
 
 [[id11,Compte d'un Client]]
 
@@ -167,7 +167,7 @@ Cette interface permet de modifer les informations d'un client.
 
 image::Image/DocUtilisateur/InterfaceCC.PNG[width=50%]
 
-Cette interface permet devoir les comptes du client sélectionné.
+Cette interface permet de voir les comptes du client sélectionné.
 
 Dans cette interface on peut faire:
 
@@ -175,33 +175,33 @@ Dans cette interface on peut faire:
 
 image::Image/DocUtilisateur/BoutonNCP.PNG[width=20%]
 
-*** Ouvre l'interface de Création de Compte.
+*** Ouvre l'interface de Création de compte.
 
 **Supprimer Compte**
 
 image::Image/DocUtilisateur/BoutonSC.PNG[width=20%]
 
-*** Cloture le compte si le solde est a 0.
+*** Clôture le compte si le solde est à 0.
 
 **Voir Opération**
 
 image::Image/DocUtilisateur/BoutonVO.PNG[width=20%]
 
-*** Permet d'ouvrir l'interface pour voir et faire des opération sur le compte sélectionné.
+*** Permets d'ouvrir l'interface pour voir et faire des opérations sur le compte sélectionné.
 
 **Retour**
 
 image::Image/DocUtilisateur/BoutonRGC.PNG[width=20%]
 
-*** Permet de revenir a l'interface de gestion des clients. 
+*** Permets de revenir à l'interface de gestion des clients.  
 
 [[id12,interface Nouveau Compte]]
 
-=== 4.8. interface Nouveau Compte
+=== 4.8. Interface Nouveau Compte
 
 image::Image/DocUtilisateur/InterfaceNCP.PNG[width=50%]
 
-Interface de création du compte pour le client sélectionnné précédament.
+Interface de création du compte pour le client sélectionné précédemment.
 
 [[id13,Inteface Des Opérations]]
 
@@ -211,25 +211,25 @@ image::Image/DocUtilisateur/Jordan/interfacoperation.png[width=60%]
 
 Interface qui permet de voir les Opération déjà effectué mais aussi d'en faire
 
-Pour cela 3 fonctionnalité sont disponible:
+Pour cela 3 fonctionnalités sont disponibles:
 
 **Enregistrer Débit**
 
 image::Image/DocUtilisateur/BoutonEngD.PNG[width=20%]
 
-*** Ouvre l'interface pour effectué un retrait.
+*** Ouvre l'interface pour effectuer un retrait.
 
 **Enregistrer Crédit**
 
 image::Image/DocUtilisateur/BoutonEngC.PNG[width=20%]
 
-*** Ouvre l'interface pour effectué un dépot.
+*** Ouvre l'interface pour effectuer un dépôt.
 
 **Enregistrer Virement**
 
 image::Image/DocUtilisateur/BoutonEngV.PNG[width=20%]
 
-*** Ouvre l'interface pour effectué un virement a un compte du meme client.
+*** Ouvre l'interface pour effectuer un virement à un compte du même client.
 
 **Retour**
 
@@ -241,7 +241,7 @@ image::Image/DocUtilisateur/BoutonRGCP.PNG[width=20%]
 
 image::Image/DocUtilisateur/Jordan/debit.png[width=45%]
 
-Interface ou on peut choisir le montant a retirer.
+Interface où on peut choisir le montant à retirer.
 
 [[id15,Interface Crédit]]
 
@@ -249,7 +249,7 @@ Interface ou on peut choisir le montant a retirer.
 
 image::Image/DocUtilisateur/Jordan/credit.png[width=45%]
 
-Interface ou on peut choisir le montant a Créditer.
+Interface où on peut choisir le montant à Créditer.
 
 [[id16,Interface Virement]]
 
@@ -257,17 +257,17 @@ Interface ou on peut choisir le montant a Créditer.
 
 image::Image/DocUtilisateur/Jordan/virement.png[width=45%]
 
-Interface ou on peut choisir le montant a Transférer a un autre client. 
+Interface où on peut choisir le montant à Transférer a un autre client.  
 
 [[id17,Interface Employé]]
 
 == 5. Interface Employé
 
-Une fois l'application lancé, il faut se connecter en temps que Chef d'agence pour pouvoir accéder à la page permettant la gestion des employés. Si vous êtes un chef d'agence, veuillez suivre pas à pas le guide, si vous n'êtes pas chef d'agence cette partie n'est malheureusement pas pour vous.
+Une fois l'application lancée, il faut se connecter en tant que Chef d'agence pour pouvoir accéder à la page permettant la gestion des employés. Si vous êtes un chef d'agence, veuillez suivre pas à pas le guide, si vous n'êtes pas chef d'agence cette partie n'est malheureusement pas pour vous.
 
 image::Image/DocUtilisateur/Jordan/menubaremployé.png[width=30%]
 
-En haut à gauche ce trouve le menu, cliquez sur gestion puis emmployés. Si Employés n'est pas cliquable, c'est que vous n'êtes toujours pas chef d'agence.
+En haut à gauche se trouve le menu, cliquez sur la gestion puis employés. Si Employé n'est pas cliquable, c'est que vous n'êtes toujours pas chef d'agence.
 
 [[id18,Interface d'arrivé d'Employé]]
 
@@ -275,7 +275,7 @@ En haut à gauche ce trouve le menu, cliquez sur gestion puis emmployés. Si Emp
 
 image::Image/DocUtilisateur/Jordan/rechercheemploye.png[width=45%]
 
-Bienvenue sur l'interface, il est facile d'utilisation. Pour faire une recherche d'un employé, tapez la première lettre du login dans la barre de recherche en haut à gauche, la liste des employés ce mettra automatiquement à jour à chaque fois que vous rajouterez une lettre
+Bienvenue sur l'interface, il est facile d'utilisation. Pour faire une recherche d'un employé, tapez la première lettre du login dans la barre de recherche en haut à gauche, la liste des employés se mettra automatiquement à jour à chaque fois que vous rajouterez une lettre
 
 image::Image/DocUtilisateur/Jordan/rechercheemploye1.png[width=45%]
 
@@ -283,20 +283,20 @@ image::Image/DocUtilisateur/Jordan/rechercheemploye1.png[width=45%]
 
 === 5.2 Création d'un employé
 
-Pour ce faire rien de bien compliqué. Cliquez sur le boutton "Nouveau Employé" en bas à droite de la fenêtre. Un pop-up devrait apparaitre, celui-ci :
+Pour ce faire rien de bien compliqué. Cliquez sur le bouton "Nouveau Employé" en bas à droite de la fenêtre. Un pop-up devrait apparaitre, celui-ci :
 
 image::Image/DocUtilisateur/Jordan/creationemploye.png[width=45%]
 
-Pour valider la création d'un employé il faut remplir tous les champs. Une fois les champs bien rempli, appuyez sur ajouter, si le boutton annuler supprimera les informations que vous avez mises et fermera la fenêtre.
+Pour valider la création d'un employé il faut remplir tous les champs. Une fois les champs bien remplis, appuyez sur ajouter, si le bouton annuler supprimera les informations que vous avez mises et fermera la fenêtre.
 
 [[id20,Modification d'un employé]]
 
 === 5.3 Modification d'un employé
 
-Pour modifier un employé, il faut selectionner lequel on souhaite changer puis cliquer sur le boutton sur la droite de la fenêtre "Modifier employé"
+Pour modifier un employé, il faut sélectionner lequel on souhaite changer puis cliquer sur le bouton sur la droite de la fenêtre "Modifier employé"
 
 image::Image/DocUtilisateur/Jordan/modifemploye.png[width=45%]
 
-Toutes les données de l'employé sont dans les différentes cases, veuillez changer celle que vous souhaitez sans la laissez vide. Puis boutton "Modifier".
+Toutes les données de l'employé sont dans les différentes cases, veuillez changer celle que vous souhaitez sans la laisse vide. Puis bouton "Modifier".
 
-PS: Nous n'avons pas encore ajouter la fonctionnalité pour désactiver/supprimer un employé, faites donc bien attention au moment du recrutement.
+PS: Nous n'avons pas encore ajouté la fonctionnalité pour désactiver/supprimer un employé, faites donc bien attention au moment du recrutement.
