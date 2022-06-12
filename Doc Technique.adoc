@@ -301,3 +301,18 @@ image::Image/DocTechnique/Jordan/PDF2.png[width=50%]
 
 = Nouveau/modifier employé
 Cette fonctionnalité créer/modifier un employé.
+
+Application.view :: 
+** Classe : **EmployeEditorPane** 
+*** **doEmployeEditorDialog** (Méthode) Appelé par **EmployeEditorPaneController**
+*** **EmployeEditorPane** Appelé par **empoyeeditorpane.fxml**
+
+
+Application.control :: 
+** Classe : **EmployeEditorPaneController**. **EmployeEditorPane** qui permet de paramétrer la fenêtre des modifications des employés. 
+
+*** **modifierEmploye** (Méthode modifie un employé existant) => **EmployeManagementController** (Classe qui l'appele). 
+*** **nouveauEmployé** (Méthode ajoute un nouvel employé) => **EmployeEditorPaneController** (Classe qui l'appele).
+
+** Classe : **EmployeEditorPane** Permet l'ouverture de la fenêtre pour modifier un employé elle est appelé dans la classe: 
+*** **EmployeEditorPane** (Méthode pour parametre la fenetre) => **EmployesManagement** (Classe qui l'appele) => **EmployeManagementController** (Classe qui l'appele) 
