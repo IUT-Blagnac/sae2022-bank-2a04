@@ -25,9 +25,17 @@ v1.0, 2022-06-08
 ** <<id11,4.7 Compte d'un Client>>
 ** <<id12,4.8 interface Nouveau Compte>>
 ** <<id13,4.9 Inteface Des Opérations>>
-** <<id11,4.10 Interface débit>>
-** <<id12,4.11 Interface Crédit>>
-** <<id13,4.12 Interface Virement>>
+** <<id14,4.10 Interface débit>>
+** <<id15,4.11 Interface Crédit>>
+** <<id16,4.12 Interface Virement>>
+
+<<id17,Interface Employé>>
+** <<id18,Interface d'arrivé d'Employé>>
+** <<id19,Création d'un employé>>
+** <<id20,Modification d'un employé>>
+
+
+
 
 [[id,Presentation générale]]
 
@@ -250,8 +258,44 @@ image::Image/DocUtilisateur/Jordan/virement.png[width=45%]
 
 Interface ou on peut choisir le montant a Transférer a un autre client. 
 
+[[id17,Interface Employé]]
+
 == 5. Interface Employé
 
+Une fois l'application lancé, il faut se connecter en temps que Chef d'agence pour pouvoir accéder à la page permettant la gestion des employés. Si vous êtes un chef d'agence, veuillez suivre pas à pas le guide, si vous n'êtes pas chef d'agence cette partie n'est malheureusement pas pour vous.
 
+image::Image/DocUtilisateur/Jordan/menubaremployé.png[width=30%]
 
+En haut à gauche ce trouve le menu, cliquez sur gestion puis emmployés. Si Employés n'est pas cliquable, c'est que vous n'êtes toujours pas chef d'agence.
 
+[[id18,Interface d'arrivé d'Employé]]
+
+=== 5.1 Interface d'arrivé d'Employé
+
+image::Image/DocUtilisateur/Jordan/rechercheemploye.png[width=45%]
+
+Bienvenue sur l'interface, il est facile d'utilisation. Pour faire une recherche d'un employé, tapez la première lettre du login dans la barre de recherche en haut à gauche, la liste des employés ce mettra automatiquement à jour à chaque fois que vous rajouterez une lettre
+
+image::Image/DocUtilisateur/Jordan/rechercheemploye1.png[width=45%]
+
+[[id19,Création d'un employé]]
+
+=== 5.2 Création d'un employé
+
+Pour ce faire rien de bien compliqué. Cliquez sur le boutton "Nouveau Employé" en bas à droite de la fenêtre. Un pop-up devrait apparaitre, celui-ci :
+
+image::Image/DocUtilisateur/Jordan/creationemploye.png[width=45%]
+
+Pour valider la création d'un employé il faut remplir tous les champs. Une fois les champs bien rempli, appuyez sur ajouter, si le boutton annuler supprimera les informations que vous avez mises et fermera la fenêtre.
+
+[[id20,Modification d'un employé]]
+
+=== 5.3 Modification d'un employé
+
+Pour modifier un employé, il faut selectionner lequel on souhaite changer puis cliquer sur le boutton sur la droite de la fenêtre "Modifier employé"
+
+image::Image/DocUtilisateur/Jordan/modifemploye.png[width=45%]
+
+Toutes les données de l'employé sont dans les différentes cases, veuillez changer celle que vous souhaitez sans la laissez vide. Puis boutton "Modifier".
+
+PS: Nous n'avons pas encore ajouter la fonctionnalité pour désactiver/supprimer un employé, faites donc bien attention au moment du recrutement.
