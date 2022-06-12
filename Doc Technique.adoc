@@ -296,5 +296,8 @@ Application.view ::
 *** **displayDialog** (Méthode) Appelé par **ChoisirDossierPDF**
 *** **doGenererPDF** (Méthode) Utilisé par **OperationsManagementController** et **ChoisirDossierPDF**
 
-image::Image/DocTechnique/Jordan/PDF1.png[width:50%]
-image::Image/DocTechnique/Jordan/PDF2.png[width:50%]
+image::Image/DocTechnique/Jordan/PDF1.png[width=50%]
+image::Image/DocTechnique/Jordan/PDF2.png[width=50%]
+
+= Nouveau/modifier employé
+Cette fonctionnalité créer/modifier un employé.
