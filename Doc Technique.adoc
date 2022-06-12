@@ -52,7 +52,7 @@ que compte son réseau.
 === Application attendu
 
 
-Rajouter des fonctionnalité à l’application que nous avons reçu, par exemple: 
+Rajouter des fonctionnalités à l’application que nous avons reçue, par exemple;
 
 
 
@@ -81,38 +81,38 @@ Rajouter des fonctionnalité à l’application que nous avons reçu, par exempl
 
 
 
-Ainsi que d’autre fonctionnalité que nous mettrons si le temps nous le permet.
+Ainsi que d'autres fonctionnalité que nous mettrons si le temps nous le permet.
 
 
 
 [[id2,Architecture de l'application]]
 == Architecture de l'application
 
-Notre application à été écrite en java avec la bibliothèque de javaFX 1.8 qui nous a permis de créer l'interface graphique de l'application, ainsi qu'une base de donnée en SQL oracle qui nous permet de stocker tous les clients de la banques, leurs comptes, leurs transactions, les employés. Nous avons choisi SQL oracle car il est simple d'utilisation.
+Notre application a été écrite en java avec la bibliothèque de java Fx 1.8 qui nous a permis de créer l'interface graphique de l'application, ainsi qu'une base de données en SQL oracle qui nous permet de stocker tous les clients de la banque, leurs comptes, leurs transactions, les employés. Nous avons choisi SQL oracle car il est simple d'utilisation.
 
 
 image::Image/LogoJAVAFX.png[width=10%]
 image::Image/LogoSql.png[width=10%]
 
-Nous avons créer un .jar permettant d'executer l'application sur un pc.
+Nous avons créé un .jar permettant d'exécuter l'application sur un Pc.
 
-Plusieurs packages sont diponibles dans notre application, chaqu'un joue un role important, une certaine hiérarchie est instauré.
+Plusieurs packages sont disponibles dans notre application, chacun joue un rôle important, une certaine hiérarchie est instaurée.
 
 image::Image/packages.png[width=10%]
 
-Application.view :: regroupe les fichiers fxml ainsi que leur différents controllers. 
-Application.tools :: est un package contenant les outils d'alertes, des constantes reutillisables.
-Application.control :: permet de gérer les différents fenêtre créer dans le package view.
+Application.view :: regroupe les fichiers fxml ainsi que leurs différents controllers.
+Application.tools :: est un package contenant les outils d'alertes, des constantes réutilisables.
+Application.control :: permet de gérer les différentes fenêtres créer dans le package view.
 Application :: permet de lancer les différentes méthodes pour initialiser le lancement de l'application
 
-Model.data :: regroupe tous les différents acteurs qui peuvent interagir et qui sont stocké dans la base de donnés, ainsi que leur different constructeur
+Model.data :: regroupe tous les différents acteurs qui peuvent interagir et qui sont stockés dans la base de données, ainsi que leur different constructeur
 Par exemple les clients, les employés.
 
-Model.orm :: permet de gérer les différents actions qu'on peut réaliser depuis l'application comme le CRUD.
+Model.orm :: Permets de gérer les différentes actions qu'on peut réaliser depuis l'application comme le CRUD.
 
 Model.orm.exception :: lève toutes les exceptions rencontrées dans l'application
 
-== 2.Presentation des différentes versions 
+== 2.Présentation des différentes versions 
 
 [[id3,Présentation de la V0]]
 === Présentation de la V0
@@ -207,12 +207,12 @@ Application.view ::
 Application.control :: 
 ** Classe : **EmployesManagement**. **EmployesManagement** qui permet de paramétrer la fenêtre des employés. 
 
-*** **modifierEmploye** (Méthode modifie un employé existant) => **EmployeManagementController** (Classe qui l'appele). 
-*** **nouveauEmployé** (Méthode ajoute un nouvel employé) => **EmployeEditorPaneController** (Classe qui l'appele).
-*** **getListeEmployé** (Méthode recupere la liste de tous les employés) => **EmployeManagementController** (Classe qui l'appele).
+*** **modifierEmploye** (Méthode modifie un employé existant) => **EmployeManagementController** (Classe qui l'appelle). 
+*** **nouveauEmployé** (Méthode ajoute un nouvel employé) => **EmployeEditorPaneController** (Classe qui l'appelle).
+*** **getListeEmployé** (Méthode recupere la liste de tous les employés) => **EmployeManagementController** (Classe qui l'appelle).
 
 ** Classe : **EmployeEditorPane** Permet l'ouverture de la fenêtre pour modifier un employé elle est appelé dans la classe: 
-*** **EmployeEditorPane** (Méthode pour parametre la fenetre) => **EmployesManagement** (Classe qui l'appele) => **EmployeManagementController** (Classe qui l'appele) 
+*** **EmployeEditorPane** (Méthode pour parametre la fenetre) => **EmployesManagement** (Classe qui l'appele) => **EmployeManagementController** (Classe qui l'appelle) 
 
 Model.data :: 
 ** Classe : **Employé** Classe qui définit les attributs d'un employé
@@ -220,10 +220,10 @@ Model.data ::
 
 Model.orm :: 
 ** Classe : **AccessEmploye** 
-*** **getEmploye** (Méthode pour récuperer 1 employé) => **DailyBankMainFrame** (Classe qui l'appele).
-*** **insertEmploye** (Méthode pour ajouter des employés) => **EmployeManagement** (Classe qui l'appele)  => **EmployeEditorPaneController** (Classe qui l'appele).
-*** **updateEmploye** (Méthode pour modifier des employés) => **EmployeManagement** (Classe qui l'appele)  => **EmployeEditorPaneController** (Classe qui l'appele).
-*** **getEmploye1** (Méthode pour récuperer tous les employés)  => **EmployeManagement** (Classe qui l'appele)
+*** **getEmploye** (Méthode pour récuperer 1 employé) => **DailyBankMainFrame** (Classe qui l'appelle).
+*** **insertEmploye** (Méthode pour ajouter des employés) => **EmployeManagement** (Classe qui l'appelle)  => **EmployeEditorPaneController** (Classe qui l'appelle).
+*** **updateEmploye** (Méthode pour modifier des employés) => **EmployeManagement** (Classe qui l'appelle)  => **EmployeEditorPaneController** (Classe qui l'appelle).
+*** **getEmploye1** (Méthode pour récuperer tous les employés)  => **EmployeManagement** (Classe qui l'appelle)
 
 
 image::Image/DocTechnique/Jordan/gestion_des_employe1.png[width=60%]
@@ -232,7 +232,7 @@ image::Image/DocTechnique/Jordan/gestion_des_employe1.png[width=60%]
 = Virement :
 
 Cette fonctionnalité permet de faire des virements de compte à compte
-C'est sur cette interface que l'opération viremement et disponible.
+C'est sur cette interface que l'opération virement et disponible.
 
 image::Image/DocUtilisateur/Jordan/virement.png[width=60%]
 
