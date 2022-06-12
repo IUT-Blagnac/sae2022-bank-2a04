@@ -37,19 +37,19 @@ Penser aussi à taguer les livrables.
 |         | Code V1     |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/V1/DAILY_BANK_FX_V1.rar                     | 
 |         | Recette V1 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc                      | 
 |         | Gantt V3 à jour   |                      | 
-|         | `jar` projet |    | 
+|         | `jar` projet |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Daily_Bank.jar    | 
 | 05/06   | Gantt V3 à Jour  |    |  
 |         | Doc. Util. V2 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc         |            
 |         | Doc. Tec. V2 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     |    
 |         | Code V2     |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/V1.2/DAILY_BANK_FX_V0.zip                       |
 |         | Recette V2  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc   |
-|         | `jar` projet |     |
+|         | `jar` projet |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Daily_Bank.jar     |
 |12/06   | Gantt V3 à Jour  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Documents%20Finaux/Gantt%20V3.pod    |  
 |         | Doc. Util. V3 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/doc%20utilisateur.adoc         |      
 |         | Doc. Tec. V3 |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Doc%20Technique.adoc     |    
 |         | Code V3     |                       |
 |         | Recette V3  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc   |
-|         | `jar` projet |     |
+|         | `jar` projet |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Daily_Bank.jar     |
 |===
 == Les critères d'évaluation :SAE S2.05 Gestion de projet
 
