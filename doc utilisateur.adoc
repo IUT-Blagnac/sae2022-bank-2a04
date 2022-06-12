@@ -166,7 +166,7 @@ Interface de création du compte pour le client sélectionnné précédament.
 
 === 4.9. Inteface Des Opérations
 
-image::Image/DocUtilisateur/InterfaceVO.PNG[width=50%]
+image::Image/DocUtilisateur/Jordan/interfacoperation.png[width=60%]
 
 Interface qui permet de voir les Opération déjà effectué mais aussi d'en faire
 
@@ -196,19 +196,19 @@ image::Image/DocUtilisateur/BoutonRGCP.PNG[width=20%]
 
 === 4.10. Interface Débit
 
-image::Image/DocUtilisateur/InterfaceEngD.PNG[width=50%]
+image::Image/DocUtilisateur/Jordan/debit.png[width=45%]
 
 Interface ou on peut choisir le montant a retirer.
 
 === 4.11. Interface Crédit
 
-image::Image/DocUtilisateur/InterfaceEngC.PNG[width=50%]
+image::Image/DocUtilisateur/Jordan/credit.png[width=45%]
 
 Interface ou on peut choisir le montant a Créditer.
 
 === 4.12. Interface Virement
 
-image::Image/DocUtilisateur/InterfaceEngV.PNG[width=50%]
+image::Image/DocUtilisateur/Jordan/virement.png[width=45%]
 
 Interface ou on peut choisir le montant a Transférer a un autre client. 
 
