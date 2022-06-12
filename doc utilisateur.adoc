@@ -16,26 +16,41 @@ v1.0, 2022-06-08
 
 <<id4, Utilisation>>
 
+** <<id5,4.1 Interface d'Arriver>>
+** <<id6,4.2 Interface de Connection>>
+** <<id7,4.3 Interface d'Arriver Connecté>>
+** <<id8,4.4 Interface Clients>>
+** <<id9,4.5 Interface Création Client>>
+** <<id10,4.6 Modifier Client>>
+** <<id11,4.7 Compte d'un Client>>
+** <<id12,4.8 interface Nouveau Compte>>
+** <<id13,4.9 Inteface Des Opérations>>
+** <<id11,4.10 Interface débit>>
+** <<id12,4.11 Interface Crédit>>
+** <<id13,4.12 Interface Virement>>
 
-
+[[id,Presentation générale]]
 
 == 1.Presentation générale
 La banque DailyBank souhaite développer une application JAVA-Oracle de gestion des comptes clients pour remplacer plusieurs outils obsolètes. Ce développement s’inscrit dans le cadre de la restructuration de ses services bancaires et l’application sera déployée dans les 100 agences que compte son réseau. 
 
 
+[[id2,Installation utilisation]]
 
 == 2.Installation utilisation 
 Pour commencer l'installation de l'application, on commence par télécharger le jar.Puis le projet démarre en lançant le jar depuis l'invite de commande(CMD).Pour cela il faut avoir la bonne version de java,pour cela exécuté la commande **java -version** , la version doit être la 8 si ce n'est pas le cas télécharger la version 8 de java.Puis quand cela est fait executer la commande **java -jar <nom du fichier jar>** et L'application devrait se lancer
 
 
+[[id3,Fonctionnement]]
+
 == 3.Fonctionnement
 Quand le projet démarre. L'application permet à un guichetier de creer un nouveau client et modifie ses informations et de consulter et débiter un compte,de faire des virements de compte à compte ainsi que Clôturer un compte. Elle permet un chef d'agence de rendre inactif un client,de consulter la liste de employer, d'en créer, d'en supprimer, d'en modifier.
 
-
+[[id4,Utilisation]]
 == 4. Utilisation
 Voici un guide d'utilisation de l'application:
 
-
+[[id5,Interface d'Arriver]]
 === 4.1. Interface d'Arriver:
 
 A l'ouverture de l'application ,Vous arrivez sur cette page:
@@ -58,11 +73,16 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
 image::Image/DocUtilisateur/BoutonConnection.PNG[width=20%]
 
+
+[[id6,Interface de Connection]]
+
 === 4.2. Interface de Connection:
 
 image::Image/DocUtilisateur/Interface connection.PNG[width=50%]
 
 Rentrez vos identifiant et mot de passe de connection
+
+[[id7,Interface d'Arriver Connecté]]
 
 === 4.3. Interface d'Arriver Connecté :
 
@@ -81,6 +101,8 @@ image::Image/DocUtilisateur/BarreUtilisateurGestion.PNG[width=30%]
 
 *** Gestion → Employés
 *** Gestion → Clients
+
+[[id8,Interface Clients]]
 
 === 4.4. Interface Clients 
 
@@ -112,6 +134,8 @@ image::Image/DocUtilisateur/BoutonMC.PNG[width=20%]
 
 *** Vas ouvrir une interface avec les informations présente pour les modifiers.
 
+[[id9,Interface Création Client]]
+
 === 4.5. Interface Création Client
 
 image::Image/DocUtilisateur/InterfaceNC.PNG[width=50%]
@@ -120,11 +144,15 @@ Cette interface permet de créer un Client
 
 *** Pour cela il faut remplir tout les champs.
 
+[[id10,Modifier Client]]
+
 === 4.6. Modifier Client
 
 image::Image/DocUtilisateur/InterfaceMC.PNG[width=50%]
 
 Cette interface permet de modifer les informations d'un client.
+
+[[id11,Compte d'un Client]]
 
 === 4.7. Compte d'un Client
 
@@ -158,11 +186,15 @@ image::Image/DocUtilisateur/BoutonRGC.PNG[width=20%]
 
 *** Permet de revenir a l'interface de gestion des clients. 
 
+[[id12,interface Nouveau Compte]]
+
 === 4.8. interface Nouveau Compte
 
 image::Image/DocUtilisateur/InterfaceNCP.PNG[width=50%]
 
 Interface de création du compte pour le client sélectionnné précédament.
+
+[[id13,Inteface Des Opérations]]
 
 === 4.9. Inteface Des Opérations
 
@@ -194,11 +226,15 @@ image::Image/DocUtilisateur/BoutonEngV.PNG[width=20%]
 
 image::Image/DocUtilisateur/BoutonRGCP.PNG[width=20%]
 
+[[id14,Interface Débit]]
+
 === 4.10. Interface Débit
 
 image::Image/DocUtilisateur/Jordan/debit.png[width=45%]
 
 Interface ou on peut choisir le montant a retirer.
+
+[[id15,Interface Crédit]]
 
 === 4.11. Interface Crédit
 
@@ -206,11 +242,16 @@ image::Image/DocUtilisateur/Jordan/credit.png[width=45%]
 
 Interface ou on peut choisir le montant a Créditer.
 
+[[id16,Interface Virement]]
+
 === 4.12. Interface Virement
 
 image::Image/DocUtilisateur/Jordan/virement.png[width=45%]
 
 Interface ou on peut choisir le montant a Transférer a un autre client. 
+
+== 5. Interface Employé
+
 
 
 
