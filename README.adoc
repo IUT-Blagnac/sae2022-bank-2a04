@@ -51,6 +51,26 @@ Penser aussi à taguer les livrables.
 |         | Recette V3  |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Cahier_Recette.adoc   |
 |         | `jar` projet |https://github.com/IUT-Blagnac/sae2022-bank-2a04/blob/main/Daily_Bank.jar     |
 |===
+
+=== Tableau de récapitulatif des taches de dev fait par chacun
+
+|===
+| Fonctionnalité | Personne qui l'a écrite
+| Viremenent | Romain Massip
+| Crédit | Romain Massip
+| Nouveau compte | Romain Massip
+| gérer employé (tout ce qui est en rapport avec employé) |Jordan Quinveros 
+| Générer PDF| Jordan Quinveros
+| Cloturer Compte | Jordan Quinveros
+| Fonctionnalité supplémentaire (ex: recherche, double clic...) | Jordan Quinveros
+|===
+
+
+
+
+
+
+
 == Les critères d'évaluation :SAE S2.05 Gestion de projet
 
 === CDCU
