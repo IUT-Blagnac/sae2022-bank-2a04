@@ -159,7 +159,7 @@ Fontionnalité faite par : Jordan Quinveros
 image::Image/UsercaseV1.png[width=30%]
 image::Image/DocTechnique/Jordan/dc-initialv1.svg[width=65%]
 
-= Créditer:
+= Créditer: (Romain Massip)
 
 C'est sur cette interface que l'opération créditer et disponible.
 
@@ -188,7 +188,7 @@ SQL(procédure)::
 ** Procédure : **Créditee** Appelé par **insertDebit**
 
 
-= Gérer les employés :
+= Gérer les employés : (Jordan Quinveros)
 
 Cette interface permet de voir la liste de tous les employés ou de les filtrer avec la recherche. On peut aussi faire le CRUD.
 
@@ -226,7 +226,7 @@ Model.orm ::
 image::Image/DocTechnique/Jordan/gestion_des_employe1.png[width=60%]
 
 
-= Virement :
+= Virement : (Romain Massip)
 
 Cette fonctionnalité permet de faire des virements de compte à compte
 C'est sur cette interface que l'opération viremement et disponible.
@@ -255,7 +255,7 @@ Model.orm ::
 SQL(procédure)::
 ** Procédure : **Viree** Appelé par **Virement**
 
-= Créer compte:
+= Créer compte: (Romain Massip)
 Cette fonctionnalité permet de créer des nouveaux comptes .
 C'est sur cette interface que l'opération créer compte est disponible.
 
@@ -284,7 +284,7 @@ Model.orm ::
 SQL(procédure)::
 ** Procédure : **CreerCompte** Appelé par **creerCompte**
 
-= Générer le PDF
+= Générer le PDF (Jordan Quinveros) 
 Cette fonctionnalité permet de générer un PDF pour un mois donnés.
 
 Application.control :: 
@@ -299,7 +299,7 @@ Application.view ::
 image::Image/DocTechnique/Jordan/PDF1.png[width=50%]
 image::Image/DocTechnique/Jordan/PDF2.png[width=50%]
 
-= Nouveau/modifier employé
+= Nouveau/modifier employé (Jordan Quinveros)
 Cette fonctionnalité créer/modifier un employé.
 
 Application.view :: 
